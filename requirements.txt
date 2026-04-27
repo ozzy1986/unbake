@@ -1,0 +1,5 @@
+faster-whisper
+imageio-ffmpeg
+jiwer
+regex
+whisperx

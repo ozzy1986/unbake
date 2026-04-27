@@ -1,0 +1,12 @@
+SYNC_HANDOFF.md
+AGENT_HANDOFF.md
+.venv/
+.cache/
+outputs/
+data/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.wav
+*.m4a
+*.mp3
