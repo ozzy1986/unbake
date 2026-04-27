@@ -1,27 +1,28 @@
 # Unbake ASR Prototype
 
-Prototype for the Unbake test task: accept a vocal stem, recognize lyrics, return LRCLIB-like synced lyrics with word timestamps, and evaluate the result against reference lyrics.
+Репозиторий с прототипом для тестового задания Unbake: получить текст песни и таймкоды из вокальной дорожки после Demucs v4.
 
-## What Is Included
+## Что внутри
 
-- `tools/transcribe.py` - runs ASR with `faster-whisper` and writes JSON output.
-- `tools/align_whisperx.py` - runs a second WhisperX alignment pass for word-level timestamps.
-- `tools/evaluate_text.py` - computes `CER` and `WER` against reference lyrics.
-- `data/` - test audio samples and manually collected/reference lyrics used for evaluation.
-- `outputs/` - real generated outputs from local experiments.
-- `SUBMISSION_DRAFT.txt` - human-readable write-up for the Google Doc answer.
+- `SUBMISSION_DRAFT.txt` - готовый текст ответа для Google Doc.
+- `tools/transcribe.py` - распознаёт аудио через `faster-whisper` и сохраняет JSON.
+- `tools/align_whisperx.py` - делает второй проход alignment через WhisperX для word-level timestamps.
+- `tools/evaluate_text.py` - считает `CER` и `WER` относительно reference lyrics.
+- `data/` - аудио, использованное в тестах, и reference lyrics.
+- `outputs/` - реальные JSON-результаты наших прогонов.
+- `unbake-vocals/` - локальный набор vocal samples, который был использован как тестовый датасет.
 
-## Pipeline
+## Пайплайн
 
 ```text
-Vocal m4a
-  -> ASR transcription
-  -> plainLyrics + syncedLyrics + word timestamps
-  -> optional WhisperX alignment
-  -> CER/WER evaluation against reference lyrics
+вокал m4a
+  -> распознавание текста
+  -> plainLyrics + syncedLyrics + таймкоды слов
+  -> опциональный второй проход WhisperX
+  -> оценка CER/WER по reference lyrics
 ```
 
-## Reproduce Locally
+## Как повторить один прогон
 
 ```powershell
 py -3.9 -m venv .venv
@@ -30,23 +31,25 @@ py -3.9 -m venv .venv
 .\.venv\Scripts\python.exe tools\evaluate_text.py --reference "data\references\en\post_malone_rockstar.txt" --hypothesis "outputs\rockstar.test.json"
 ```
 
-## Measured Baseline
+## Что мы измерили
 
-Local hardware:
+Локальное железо:
 
 - CPU: Intel i5-7300HQ
 - RAM: 8 GB
-- GPU: GTX 1050 4 GB, but main baseline was CPU
+- GPU: GTX 1050 4 GB, но основной baseline запускался на CPU
 
-`faster-whisper small` results:
+Результаты `faster-whisper small`:
 
-| Sample | CER | WER | Runtime |
+| Пример | CER | WER | Время |
 | --- | ---: | ---: | ---: |
 | EN rockstar | 0.250 | 0.345 | 77s / 218s audio |
 | ES BELLAKEO | 0.612 | 0.783 | 381s / 197s audio |
 | FR Place de la Republique | 0.228 | 0.391 | 62s / 261s audio |
 | RU Polkovniku nikto ne pishet | 0.245 | 0.604 | 198s / 243s audio |
 
-## Conclusion
+## Вывод
 
-The pipeline works end-to-end, including text output, LRCLIB-like line timestamps, word timestamps, and automatic evaluation. The weak local CPU baseline is not accurate enough for production on noisy Demucs vocal stems. Production-quality testing should use a stronger ASR model on GPU and keep WhisperX-style alignment for timing precision.
+Пайплайн работает end-to-end: из вокального `m4a` получается текст, LRCLIB-like `syncedLyrics`, word timestamps и автоматическая оценка качества.
+
+Текущий слабый CPU baseline не даёт production-quality accuracy на грязных vocal stems после Demucs. Для финального качества нужен более сильный ASR на GPU и отдельный alignment-pass для точных таймкодов.
