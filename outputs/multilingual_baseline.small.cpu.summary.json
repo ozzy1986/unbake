@@ -1,0 +1,26 @@
+[
+  {
+    "sample": "es_bellakeo",
+    "language": "es",
+    "elapsedSeconds": 384.498,
+    "cer": 0.6117381489841986,
+    "wer": 0.7828282828282829,
+    "output": "outputs/es_bellakeo.small.cpu.json"
+  },
+  {
+    "sample": "fr_place_republique",
+    "language": "fr",
+    "elapsedSeconds": 64.68,
+    "cer": 0.22780569514237856,
+    "wer": 0.39080459770114945,
+    "output": "outputs/fr_place_republique.small.cpu.json"
+  },
+  {
+    "sample": "ru_polkovniku",
+    "language": "ru",
+    "elapsedSeconds": 199.735,
+    "cer": 0.24539877300613497,
+    "wer": 0.6041666666666666,
+    "output": "outputs/ru_polkovniku.small.cpu.json"
+  }
+]

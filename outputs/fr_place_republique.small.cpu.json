@@ -1,0 +1,1593 @@
+{
+  "sourceAudio": "data\\unbake-vocals\\fr\\Cœur de pirate - Place de la République.m4a",
+  "model": {
+    "name": "faster-whisper",
+    "size": "small",
+    "device": "cpu",
+    "computeType": "int8",
+    "beamSize": 1
+  },
+  "detectedLanguage": "fr",
+  "languageProbability": 1.0,
+  "duration": 261.2,
+  "runtime": {
+    "modelLoadSeconds": 4.031,
+    "transcribeSeconds": 57.749,
+    "totalSeconds": 61.779
+  },
+  "plainLyrics": "On s'est connus le temps de plaire aux exigences consacrées mais on s'y fait.\nTu n'es qu'à quelques kilomètres et nos cœurs, nos cœurs sont restés dans cette mer.\nJ'ai couru en longant la scène, en espérant te retrouver la mesuréne.\nMais j'ai couru sans savoir comment, ni pour quoi on s'en va, on ne sait qu'un moment.\nEt je siffle, si tu en vois la peine, c'est plus de dire d'en être certain.\nEt quand il sert à la part des termes, ce soir même oublie pas, je t'attenderai au moins.\nLe temps d'étire que j'ai voulu prendre le plus grand risque.\nAu soir qui me rendit bien triste, au soir place d'à la révéler.\nEt comme tu vois, c'est bien la fin.\nJe dois traverser le ciel en demain matin.\nDe tes bras j'ai marraché tout doucement.\nEt c'est la réalité qui m'attend.\nJe sais ton coeur et ta vie.\nEt nous d'autres filles qui t'ont marqué.\nMoi j'ai signé un peu que les seuls.\nMais j'espère que mes dîners en voient la peine.\nC'est plus de dire d'en être certain.\nEt quand il sert à la part, ce soir même oublie pas,\nje t'endrai au moins le temps d'étire.\nQue j'ai voulu prendre le plus grand risque.\nAu soir qui me rendit bien triste.",
+  "syncedLyrics": "[00:17.58] On s'est connus le temps de plaire aux exigences consacrées mais on s'y fait.\n[00:34.66] Tu n'es qu'à quelques kilomètres et nos cœurs, nos cœurs sont restés dans cette mer.\n[00:51.31] J'ai couru en longant la scène, en espérant te retrouver la mesuréne.\n[01:08.07] Mais j'ai couru sans savoir comment, ni pour quoi on s'en va, on ne sait qu'un moment.\n[01:24.15] Et je siffle, si tu en vois la peine, c'est plus de dire d'en être certain.\n[01:34.29] Et quand il sert à la part des termes, ce soir même oublie pas, je t'attenderai au moins.\n[01:44.31] Le temps d'étire que j'ai voulu prendre le plus grand risque.\n[01:51.33] Au soir qui me rendit bien triste, au soir place d'à la révéler.\n[02:16.60] Et comme tu vois, c'est bien la fin.\n[02:24.70] Je dois traverser le ciel en demain matin.\n[02:33.06] De tes bras j'ai marraché tout doucement.\n[02:41.82] Et c'est la réalité qui m'attend.\n[02:50.34] Je sais ton coeur et ta vie.\n[02:53.74] Et nous d'autres filles qui t'ont marqué.\n[03:07.56] Moi j'ai signé un peu que les seuls.\n[03:16.06] Mais j'espère que mes dîners en voient la peine.\n[03:28.74] C'est plus de dire d'en être certain.\n[03:32.96] Et quand il sert à la part, ce soir même oublie pas,\n[03:41.26] je t'endrai au moins le temps d'étire.\n[03:45.68] Que j'ai voulu prendre le plus grand risque.\n[03:50.06] Au soir qui me rendit bien triste.",
+  "segments": [
+    {
+      "start": 17.58,
+      "end": 32.2,
+      "text": "On s'est connus le temps de plaire aux exigences consacrées mais on s'y fait."
+    },
+    {
+      "start": 34.66,
+      "end": 49.22,
+      "text": "Tu n'es qu'à quelques kilomètres et nos cœurs, nos cœurs sont restés dans cette mer."
+    },
+    {
+      "start": 51.31,
+      "end": 66.58,
+      "text": "J'ai couru en longant la scène, en espérant te retrouver la mesuréne."
+    },
+    {
+      "start": 68.07,
+      "end": 82.87,
+      "text": "Mais j'ai couru sans savoir comment, ni pour quoi on s'en va, on ne sait qu'un moment."
+    },
+    {
+      "start": 84.15,
+      "end": 93.65,
+      "text": "Et je siffle, si tu en vois la peine, c'est plus de dire d'en être certain."
+    },
+    {
+      "start": 94.29,
+      "end": 104.31,
+      "text": "Et quand il sert à la part des termes, ce soir même oublie pas, je t'attenderai au moins."
+    },
+    {
+      "start": 104.31,
+      "end": 110.93,
+      "text": "Le temps d'étire que j'ai voulu prendre le plus grand risque."
+    },
+    {
+      "start": 111.33,
+      "end": 119.17,
+      "text": "Au soir qui me rendit bien triste, au soir place d'à la révéler."
+    },
+    {
+      "start": 136.6,
+      "end": 140.4,
+      "text": "Et comme tu vois, c'est bien la fin."
+    },
+    {
+      "start": 144.7,
+      "end": 151.52,
+      "text": "Je dois traverser le ciel en demain matin."
+    },
+    {
+      "start": 153.06,
+      "end": 159.68,
+      "text": "De tes bras j'ai marraché tout doucement."
+    },
+    {
+      "start": 161.82,
+      "end": 167.88,
+      "text": "Et c'est la réalité qui m'attend."
+    },
+    {
+      "start": 170.34,
+      "end": 173.74,
+      "text": "Je sais ton coeur et ta vie."
+    },
+    {
+      "start": 173.74,
+      "end": 184.98,
+      "text": "Et nous d'autres filles qui t'ont marqué."
+    },
+    {
+      "start": 187.56,
+      "end": 192.18,
+      "text": "Moi j'ai signé un peu que les seuls."
+    },
+    {
+      "start": 196.06,
+      "end": 208.28,
+      "text": "Mais j'espère que mes dîners en voient la peine."
+    },
+    {
+      "start": 208.74,
+      "end": 212.08,
+      "text": "C'est plus de dire d'en être certain."
+    },
+    {
+      "start": 212.96,
+      "end": 221.26,
+      "text": "Et quand il sert à la part, ce soir même oublie pas,"
+    },
+    {
+      "start": 221.26,
+      "end": 225.52,
+      "text": "je t'endrai au moins le temps d'étire."
+    },
+    {
+      "start": 225.68,
+      "end": 229.74,
+      "text": "Que j'ai voulu prendre le plus grand risque."
+    },
+    {
+      "start": 230.06,
+      "end": 233.52,
+      "text": "Au soir qui me rendit bien triste."
+    }
+  ],
+  "words": [
+    {
+      "word": "On",
+      "start": 17.58,
+      "end": 18.02,
+      "probability": 0.2507
+    },
+    {
+      "word": "s",
+      "start": 18.02,
+      "end": 18.32,
+      "probability": 0.9173
+    },
+    {
+      "word": "'est",
+      "start": 18.32,
+      "end": 18.56,
+      "probability": 0.9931
+    },
+    {
+      "word": "connus",
+      "start": 18.56,
+      "end": 19.48,
+      "probability": 0.7931
+    },
+    {
+      "word": "le",
+      "start": 19.48,
+      "end": 20.08,
+      "probability": 0.4602
+    },
+    {
+      "word": "temps",
+      "start": 20.08,
+      "end": 20.58,
+      "probability": 0.9992
+    },
+    {
+      "word": "de",
+      "start": 20.58,
+      "end": 21.16,
+      "probability": 0.9748
+    },
+    {
+      "word": "plaire",
+      "start": 21.16,
+      "end": 21.82,
+      "probability": 0.7655
+    },
+    {
+      "word": "aux",
+      "start": 25.66,
+      "end": 26.58,
+      "probability": 0.9162
+    },
+    {
+      "word": "exigences",
+      "start": 26.58,
+      "end": 28.1,
+      "probability": 0.9101
+    },
+    {
+      "word": "consacrées",
+      "start": 28.1,
+      "end": 29.94,
+      "probability": 0.7001
+    },
+    {
+      "word": "mais",
+      "start": 29.94,
+      "end": 31.1,
+      "probability": 0.6076
+    },
+    {
+      "word": "on",
+      "start": 31.1,
+      "end": 31.56,
+      "probability": 0.9612
+    },
+    {
+      "word": "s",
+      "start": 31.56,
+      "end": 31.76,
+      "probability": 0.9744
+    },
+    {
+      "word": "'y",
+      "start": 31.76,
+      "end": 31.8,
+      "probability": 0.9455
+    },
+    {
+      "word": "fait.",
+      "start": 31.8,
+      "end": 32.2,
+      "probability": 0.3713
+    },
+    {
+      "word": "Tu",
+      "start": 34.66,
+      "end": 35.0,
+      "probability": 0.8875
+    },
+    {
+      "word": "n",
+      "start": 35.0,
+      "end": 35.28,
+      "probability": 0.9683
+    },
+    {
+      "word": "'es",
+      "start": 35.28,
+      "end": 35.44,
+      "probability": 0.9086
+    },
+    {
+      "word": "qu",
+      "start": 35.44,
+      "end": 35.8,
+      "probability": 0.993
+    },
+    {
+      "word": "'à",
+      "start": 35.8,
+      "end": 36.1,
+      "probability": 0.9846
+    },
+    {
+      "word": "quelques",
+      "start": 36.1,
+      "end": 36.8,
+      "probability": 0.8888
+    },
+    {
+      "word": "kilomètres",
+      "start": 36.8,
+      "end": 38.7,
+      "probability": 0.963
+    },
+    {
+      "word": "et",
+      "start": 42.7,
+      "end": 43.52,
+      "probability": 0.8085
+    },
+    {
+      "word": "nos",
+      "start": 43.52,
+      "end": 43.86,
+      "probability": 0.9378
+    },
+    {
+      "word": "cœurs,",
+      "start": 43.86,
+      "end": 44.64,
+      "probability": 0.6398
+    },
+    {
+      "word": "nos",
+      "start": 44.72,
+      "end": 44.94,
+      "probability": 0.9821
+    },
+    {
+      "word": "cœurs",
+      "start": 44.94,
+      "end": 45.52,
+      "probability": 0.7663
+    },
+    {
+      "word": "sont",
+      "start": 45.52,
+      "end": 45.86,
+      "probability": 0.9816
+    },
+    {
+      "word": "restés",
+      "start": 45.86,
+      "end": 47.54,
+      "probability": 0.9773
+    },
+    {
+      "word": "dans",
+      "start": 47.54,
+      "end": 48.06,
+      "probability": 0.9891
+    },
+    {
+      "word": "cette",
+      "start": 48.06,
+      "end": 48.6,
+      "probability": 0.847
+    },
+    {
+      "word": "mer.",
+      "start": 48.6,
+      "end": 49.22,
+      "probability": 0.9752
+    },
+    {
+      "word": "J",
+      "start": 51.31,
+      "end": 51.83,
+      "probability": 0.0654
+    },
+    {
+      "word": "'ai",
+      "start": 51.83,
+      "end": 52.03,
+      "probability": 0.9503
+    },
+    {
+      "word": "couru",
+      "start": 52.03,
+      "end": 52.95,
+      "probability": 0.9533
+    },
+    {
+      "word": "en",
+      "start": 52.95,
+      "end": 53.45,
+      "probability": 0.9517
+    },
+    {
+      "word": "longant",
+      "start": 53.45,
+      "end": 54.49,
+      "probability": 0.6731
+    },
+    {
+      "word": "la",
+      "start": 54.49,
+      "end": 54.97,
+      "probability": 0.9948
+    },
+    {
+      "word": "scène,",
+      "start": 54.97,
+      "end": 55.75,
+      "probability": 0.9722
+    },
+    {
+      "word": "en",
+      "start": 60.16,
+      "end": 60.6,
+      "probability": 0.6033
+    },
+    {
+      "word": "espérant",
+      "start": 60.6,
+      "end": 61.92,
+      "probability": 0.9934
+    },
+    {
+      "word": "te",
+      "start": 61.92,
+      "end": 62.6,
+      "probability": 0.9009
+    },
+    {
+      "word": "retrouver",
+      "start": 62.6,
+      "end": 63.78,
+      "probability": 0.9956
+    },
+    {
+      "word": "la",
+      "start": 63.78,
+      "end": 65.04,
+      "probability": 0.7784
+    },
+    {
+      "word": "mesuréne.",
+      "start": 65.04,
+      "end": 66.58,
+      "probability": 0.7217
+    },
+    {
+      "word": "Mais",
+      "start": 68.07,
+      "end": 68.71,
+      "probability": 0.4979
+    },
+    {
+      "word": "j",
+      "start": 68.71,
+      "end": 68.89,
+      "probability": 0.9807
+    },
+    {
+      "word": "'ai",
+      "start": 68.89,
+      "end": 69.01,
+      "probability": 0.9982
+    },
+    {
+      "word": "couru",
+      "start": 69.01,
+      "end": 69.79,
+      "probability": 0.9886
+    },
+    {
+      "word": "sans",
+      "start": 69.79,
+      "end": 70.35,
+      "probability": 0.9772
+    },
+    {
+      "word": "savoir",
+      "start": 70.35,
+      "end": 71.23,
+      "probability": 0.9965
+    },
+    {
+      "word": "comment,",
+      "start": 71.23,
+      "end": 72.27,
+      "probability": 0.9744
+    },
+    {
+      "word": "ni",
+      "start": 77.27,
+      "end": 77.45,
+      "probability": 0.952
+    },
+    {
+      "word": "pour",
+      "start": 77.45,
+      "end": 77.87,
+      "probability": 0.5429
+    },
+    {
+      "word": "quoi",
+      "start": 77.87,
+      "end": 78.35,
+      "probability": 0.9844
+    },
+    {
+      "word": "on",
+      "start": 78.35,
+      "end": 78.89,
+      "probability": 0.8862
+    },
+    {
+      "word": "s",
+      "start": 78.89,
+      "end": 79.23,
+      "probability": 0.9917
+    },
+    {
+      "word": "'en",
+      "start": 79.23,
+      "end": 79.39,
+      "probability": 0.9308
+    },
+    {
+      "word": "va,",
+      "start": 79.39,
+      "end": 79.85,
+      "probability": 0.7569
+    },
+    {
+      "word": "on",
+      "start": 80.45,
+      "end": 80.55,
+      "probability": 0.9486
+    },
+    {
+      "word": "ne",
+      "start": 80.55,
+      "end": 80.75,
+      "probability": 0.4486
+    },
+    {
+      "word": "sait",
+      "start": 80.75,
+      "end": 81.01,
+      "probability": 0.9097
+    },
+    {
+      "word": "qu",
+      "start": 81.01,
+      "end": 81.45,
+      "probability": 0.8359
+    },
+    {
+      "word": "'un",
+      "start": 81.45,
+      "end": 81.53,
+      "probability": 0.9376
+    },
+    {
+      "word": "moment.",
+      "start": 81.53,
+      "end": 82.87,
+      "probability": 0.4197
+    },
+    {
+      "word": "Et",
+      "start": 84.15,
+      "end": 85.07,
+      "probability": 0.0273
+    },
+    {
+      "word": "je",
+      "start": 85.07,
+      "end": 85.43,
+      "probability": 0.7079
+    },
+    {
+      "word": "siffle,",
+      "start": 85.43,
+      "end": 86.15,
+      "probability": 0.3831
+    },
+    {
+      "word": "si",
+      "start": 86.57,
+      "end": 86.79,
+      "probability": 0.9388
+    },
+    {
+      "word": "tu",
+      "start": 86.79,
+      "end": 87.35,
+      "probability": 0.9893
+    },
+    {
+      "word": "en",
+      "start": 87.35,
+      "end": 88.07,
+      "probability": 0.5373
+    },
+    {
+      "word": "vois",
+      "start": 88.07,
+      "end": 88.47,
+      "probability": 0.5078
+    },
+    {
+      "word": "la",
+      "start": 88.47,
+      "end": 88.97,
+      "probability": 0.8764
+    },
+    {
+      "word": "peine,",
+      "start": 88.97,
+      "end": 89.59,
+      "probability": 0.3981
+    },
+    {
+      "word": "c",
+      "start": 89.97,
+      "end": 90.09,
+      "probability": 0.5104
+    },
+    {
+      "word": "'est",
+      "start": 90.09,
+      "end": 90.19,
+      "probability": 0.9989
+    },
+    {
+      "word": "plus",
+      "start": 90.19,
+      "end": 90.55,
+      "probability": 0.4445
+    },
+    {
+      "word": "de",
+      "start": 90.55,
+      "end": 90.99,
+      "probability": 0.2392
+    },
+    {
+      "word": "dire",
+      "start": 90.99,
+      "end": 91.71,
+      "probability": 0.9427
+    },
+    {
+      "word": "d",
+      "start": 91.71,
+      "end": 92.25,
+      "probability": 0.7526
+    },
+    {
+      "word": "'en",
+      "start": 92.25,
+      "end": 92.33,
+      "probability": 0.9845
+    },
+    {
+      "word": "être",
+      "start": 92.33,
+      "end": 92.73,
+      "probability": 0.9909
+    },
+    {
+      "word": "certain.",
+      "start": 92.73,
+      "end": 93.65,
+      "probability": 0.9808
+    },
+    {
+      "word": "Et",
+      "start": 94.29,
+      "end": 94.47,
+      "probability": 0.9726
+    },
+    {
+      "word": "quand",
+      "start": 94.47,
+      "end": 94.81,
+      "probability": 0.9845
+    },
+    {
+      "word": "il",
+      "start": 94.81,
+      "end": 95.33,
+      "probability": 0.4071
+    },
+    {
+      "word": "sert",
+      "start": 95.33,
+      "end": 95.87,
+      "probability": 0.9671
+    },
+    {
+      "word": "à",
+      "start": 95.87,
+      "end": 96.39,
+      "probability": 0.981
+    },
+    {
+      "word": "la",
+      "start": 96.39,
+      "end": 96.53,
+      "probability": 0.9786
+    },
+    {
+      "word": "part",
+      "start": 96.53,
+      "end": 96.97,
+      "probability": 0.7454
+    },
+    {
+      "word": "des",
+      "start": 96.97,
+      "end": 97.55,
+      "probability": 0.5822
+    },
+    {
+      "word": "termes,",
+      "start": 97.55,
+      "end": 98.27,
+      "probability": 0.8442
+    },
+    {
+      "word": "ce",
+      "start": 98.49,
+      "end": 98.59,
+      "probability": 0.96
+    },
+    {
+      "word": "soir",
+      "start": 98.59,
+      "end": 99.07,
+      "probability": 0.9747
+    },
+    {
+      "word": "même",
+      "start": 99.07,
+      "end": 99.51,
+      "probability": 0.4275
+    },
+    {
+      "word": "oublie",
+      "start": 99.51,
+      "end": 100.65,
+      "probability": 0.6821
+    },
+    {
+      "word": "pas,",
+      "start": 100.65,
+      "end": 101.15,
+      "probability": 0.9887
+    },
+    {
+      "word": "je",
+      "start": 101.69,
+      "end": 101.81,
+      "probability": 0.9849
+    },
+    {
+      "word": "t",
+      "start": 101.81,
+      "end": 102.27,
+      "probability": 0.9707
+    },
+    {
+      "word": "'attenderai",
+      "start": 102.27,
+      "end": 103.45,
+      "probability": 0.7948
+    },
+    {
+      "word": "au",
+      "start": 103.45,
+      "end": 103.81,
+      "probability": 0.9127
+    },
+    {
+      "word": "moins.",
+      "start": 103.81,
+      "end": 104.31,
+      "probability": 0.9964
+    },
+    {
+      "word": "Le",
+      "start": 104.31,
+      "end": 104.95,
+      "probability": 0.0909
+    },
+    {
+      "word": "temps",
+      "start": 104.95,
+      "end": 105.39,
+      "probability": 0.9885
+    },
+    {
+      "word": "d",
+      "start": 105.39,
+      "end": 105.83,
+      "probability": 0.6036
+    },
+    {
+      "word": "'étire",
+      "start": 105.83,
+      "end": 106.67,
+      "probability": 0.8452
+    },
+    {
+      "word": "que",
+      "start": 106.67,
+      "end": 107.09,
+      "probability": 0.7568
+    },
+    {
+      "word": "j",
+      "start": 107.09,
+      "end": 107.35,
+      "probability": 0.9898
+    },
+    {
+      "word": "'ai",
+      "start": 107.35,
+      "end": 107.49,
+      "probability": 0.9014
+    },
+    {
+      "word": "voulu",
+      "start": 107.49,
+      "end": 108.11,
+      "probability": 0.8295
+    },
+    {
+      "word": "prendre",
+      "start": 108.11,
+      "end": 108.69,
+      "probability": 0.9935
+    },
+    {
+      "word": "le",
+      "start": 108.69,
+      "end": 109.23,
+      "probability": 0.8266
+    },
+    {
+      "word": "plus",
+      "start": 109.23,
+      "end": 109.55,
+      "probability": 0.9985
+    },
+    {
+      "word": "grand",
+      "start": 109.55,
+      "end": 110.13,
+      "probability": 0.974
+    },
+    {
+      "word": "risque.",
+      "start": 110.13,
+      "end": 110.93,
+      "probability": 0.989
+    },
+    {
+      "word": "Au",
+      "start": 111.33,
+      "end": 111.33,
+      "probability": 0.2115
+    },
+    {
+      "word": "soir",
+      "start": 111.33,
+      "end": 111.77,
+      "probability": 0.8867
+    },
+    {
+      "word": "qui",
+      "start": 111.77,
+      "end": 112.37,
+      "probability": 0.5197
+    },
+    {
+      "word": "me",
+      "start": 112.37,
+      "end": 112.71,
+      "probability": 0.5477
+    },
+    {
+      "word": "rendit",
+      "start": 112.71,
+      "end": 113.83,
+      "probability": 0.7958
+    },
+    {
+      "word": "bien",
+      "start": 113.83,
+      "end": 114.37,
+      "probability": 0.9744
+    },
+    {
+      "word": "triste,",
+      "start": 114.37,
+      "end": 114.93,
+      "probability": 0.9371
+    },
+    {
+      "word": "au",
+      "start": 115.39,
+      "end": 115.61,
+      "probability": 0.8171
+    },
+    {
+      "word": "soir",
+      "start": 115.61,
+      "end": 116.01,
+      "probability": 0.9965
+    },
+    {
+      "word": "place",
+      "start": 116.01,
+      "end": 116.55,
+      "probability": 0.4209
+    },
+    {
+      "word": "d",
+      "start": 116.55,
+      "end": 116.97,
+      "probability": 0.1776
+    },
+    {
+      "word": "'à",
+      "start": 116.97,
+      "end": 117.15,
+      "probability": 0.6601
+    },
+    {
+      "word": "la",
+      "start": 117.15,
+      "end": 117.79,
+      "probability": 0.9194
+    },
+    {
+      "word": "révéler.",
+      "start": 117.79,
+      "end": 119.17,
+      "probability": 0.9131
+    },
+    {
+      "word": "Et",
+      "start": 136.6,
+      "end": 136.9,
+      "probability": 0.9665
+    },
+    {
+      "word": "comme",
+      "start": 136.9,
+      "end": 137.34,
+      "probability": 0.9854
+    },
+    {
+      "word": "tu",
+      "start": 137.34,
+      "end": 137.8,
+      "probability": 0.9877
+    },
+    {
+      "word": "vois,",
+      "start": 137.8,
+      "end": 138.28,
+      "probability": 0.9932
+    },
+    {
+      "word": "c",
+      "start": 138.66,
+      "end": 138.86,
+      "probability": 0.9246
+    },
+    {
+      "word": "'est",
+      "start": 138.86,
+      "end": 138.9,
+      "probability": 0.9997
+    },
+    {
+      "word": "bien",
+      "start": 138.9,
+      "end": 139.32,
+      "probability": 0.9821
+    },
+    {
+      "word": "la",
+      "start": 139.32,
+      "end": 139.94,
+      "probability": 0.9029
+    },
+    {
+      "word": "fin.",
+      "start": 139.94,
+      "end": 140.4,
+      "probability": 0.979
+    },
+    {
+      "word": "Je",
+      "start": 144.7,
+      "end": 145.24,
+      "probability": 0.0837
+    },
+    {
+      "word": "dois",
+      "start": 145.24,
+      "end": 145.66,
+      "probability": 0.9424
+    },
+    {
+      "word": "traverser",
+      "start": 145.66,
+      "end": 147.32,
+      "probability": 0.9378
+    },
+    {
+      "word": "le",
+      "start": 147.32,
+      "end": 147.78,
+      "probability": 0.5712
+    },
+    {
+      "word": "ciel",
+      "start": 147.78,
+      "end": 148.46,
+      "probability": 0.391
+    },
+    {
+      "word": "en",
+      "start": 148.46,
+      "end": 149.02,
+      "probability": 0.5255
+    },
+    {
+      "word": "demain",
+      "start": 149.02,
+      "end": 150.26,
+      "probability": 0.486
+    },
+    {
+      "word": "matin.",
+      "start": 150.26,
+      "end": 151.52,
+      "probability": 0.9967
+    },
+    {
+      "word": "De",
+      "start": 153.06,
+      "end": 153.78,
+      "probability": 0.9047
+    },
+    {
+      "word": "tes",
+      "start": 153.78,
+      "end": 154.2,
+      "probability": 0.9306
+    },
+    {
+      "word": "bras",
+      "start": 154.2,
+      "end": 154.7,
+      "probability": 0.3449
+    },
+    {
+      "word": "j",
+      "start": 154.7,
+      "end": 155.18,
+      "probability": 0.3895
+    },
+    {
+      "word": "'ai",
+      "start": 155.18,
+      "end": 155.52,
+      "probability": 0.5403
+    },
+    {
+      "word": "marraché",
+      "start": 155.52,
+      "end": 156.68,
+      "probability": 0.6024
+    },
+    {
+      "word": "tout",
+      "start": 156.68,
+      "end": 157.48,
+      "probability": 0.8634
+    },
+    {
+      "word": "doucement.",
+      "start": 157.48,
+      "end": 159.68,
+      "probability": 0.9754
+    },
+    {
+      "word": "Et",
+      "start": 161.82,
+      "end": 162.34,
+      "probability": 0.9123
+    },
+    {
+      "word": "c",
+      "start": 162.34,
+      "end": 162.56,
+      "probability": 0.9571
+    },
+    {
+      "word": "'est",
+      "start": 162.56,
+      "end": 162.72,
+      "probability": 0.9995
+    },
+    {
+      "word": "la",
+      "start": 162.72,
+      "end": 163.26,
+      "probability": 0.9579
+    },
+    {
+      "word": "réalité",
+      "start": 163.26,
+      "end": 164.84,
+      "probability": 0.8499
+    },
+    {
+      "word": "qui",
+      "start": 164.84,
+      "end": 165.84,
+      "probability": 0.9561
+    },
+    {
+      "word": "m",
+      "start": 165.84,
+      "end": 167.34,
+      "probability": 0.9168
+    },
+    {
+      "word": "'attend.",
+      "start": 167.34,
+      "end": 167.88,
+      "probability": 0.9436
+    },
+    {
+      "word": "Je",
+      "start": 170.34,
+      "end": 170.74,
+      "probability": 0.9877
+    },
+    {
+      "word": "sais",
+      "start": 170.74,
+      "end": 171.14,
+      "probability": 0.9775
+    },
+    {
+      "word": "ton",
+      "start": 171.14,
+      "end": 171.64,
+      "probability": 0.9061
+    },
+    {
+      "word": "coeur",
+      "start": 171.64,
+      "end": 172.44,
+      "probability": 0.5137
+    },
+    {
+      "word": "et",
+      "start": 172.44,
+      "end": 172.84,
+      "probability": 0.9469
+    },
+    {
+      "word": "ta",
+      "start": 172.84,
+      "end": 173.32,
+      "probability": 0.8837
+    },
+    {
+      "word": "vie.",
+      "start": 173.32,
+      "end": 173.74,
+      "probability": 0.5465
+    },
+    {
+      "word": "Et",
+      "start": 173.74,
+      "end": 174.42,
+      "probability": 0.008
+    },
+    {
+      "word": "nous",
+      "start": 174.42,
+      "end": 175.38,
+      "probability": 0.0661
+    },
+    {
+      "word": "d",
+      "start": 179.96,
+      "end": 180.6,
+      "probability": 0.4639
+    },
+    {
+      "word": "'autres",
+      "start": 180.6,
+      "end": 181.2,
+      "probability": 0.9799
+    },
+    {
+      "word": "filles",
+      "start": 181.2,
+      "end": 182.36,
+      "probability": 0.8219
+    },
+    {
+      "word": "qui",
+      "start": 182.36,
+      "end": 182.8,
+      "probability": 0.7088
+    },
+    {
+      "word": "t",
+      "start": 182.8,
+      "end": 183.72,
+      "probability": 0.2798
+    },
+    {
+      "word": "'ont",
+      "start": 183.72,
+      "end": 183.96,
+      "probability": 0.978
+    },
+    {
+      "word": "marqué.",
+      "start": 183.96,
+      "end": 184.98,
+      "probability": 0.9515
+    },
+    {
+      "word": "Moi",
+      "start": 187.56,
+      "end": 187.8,
+      "probability": 0.7584
+    },
+    {
+      "word": "j",
+      "start": 187.8,
+      "end": 188.0,
+      "probability": 0.383
+    },
+    {
+      "word": "'ai",
+      "start": 188.0,
+      "end": 188.1,
+      "probability": 0.7387
+    },
+    {
+      "word": "signé",
+      "start": 188.1,
+      "end": 188.9,
+      "probability": 0.5146
+    },
+    {
+      "word": "un",
+      "start": 188.9,
+      "end": 189.44,
+      "probability": 0.1828
+    },
+    {
+      "word": "peu",
+      "start": 189.44,
+      "end": 189.74,
+      "probability": 0.6802
+    },
+    {
+      "word": "que",
+      "start": 189.74,
+      "end": 190.24,
+      "probability": 0.9042
+    },
+    {
+      "word": "les",
+      "start": 190.24,
+      "end": 191.06,
+      "probability": 0.5766
+    },
+    {
+      "word": "seuls.",
+      "start": 191.06,
+      "end": 192.18,
+      "probability": 0.5422
+    },
+    {
+      "word": "Mais",
+      "start": 196.06,
+      "end": 196.24,
+      "probability": 0.9385
+    },
+    {
+      "word": "j",
+      "start": 196.24,
+      "end": 196.52,
+      "probability": 0.9935
+    },
+    {
+      "word": "'espère",
+      "start": 196.52,
+      "end": 197.0,
+      "probability": 0.9953
+    },
+    {
+      "word": "que",
+      "start": 200.07,
+      "end": 200.71,
+      "probability": 0.3966
+    },
+    {
+      "word": "mes",
+      "start": 200.71,
+      "end": 200.91,
+      "probability": 0.1867
+    },
+    {
+      "word": "dîners",
+      "start": 200.91,
+      "end": 201.27,
+      "probability": 0.168
+    },
+    {
+      "word": "en",
+      "start": 206.32,
+      "end": 206.86,
+      "probability": 0.45
+    },
+    {
+      "word": "voient",
+      "start": 206.86,
+      "end": 207.48,
+      "probability": 0.5268
+    },
+    {
+      "word": "la",
+      "start": 207.48,
+      "end": 207.8,
+      "probability": 0.5786
+    },
+    {
+      "word": "peine.",
+      "start": 207.8,
+      "end": 208.28,
+      "probability": 0.0361
+    },
+    {
+      "word": "C",
+      "start": 208.74,
+      "end": 208.9,
+      "probability": 0.0548
+    },
+    {
+      "word": "'est",
+      "start": 208.9,
+      "end": 209.02,
+      "probability": 0.9935
+    },
+    {
+      "word": "plus",
+      "start": 209.02,
+      "end": 209.38,
+      "probability": 0.0279
+    },
+    {
+      "word": "de",
+      "start": 209.38,
+      "end": 209.88,
+      "probability": 0.0757
+    },
+    {
+      "word": "dire",
+      "start": 209.88,
+      "end": 210.42,
+      "probability": 0.0515
+    },
+    {
+      "word": "d",
+      "start": 210.42,
+      "end": 211.06,
+      "probability": 0.4988
+    },
+    {
+      "word": "'en",
+      "start": 211.06,
+      "end": 211.14,
+      "probability": 0.9376
+    },
+    {
+      "word": "être",
+      "start": 211.14,
+      "end": 211.54,
+      "probability": 0.9751
+    },
+    {
+      "word": "certain.",
+      "start": 211.54,
+      "end": 212.08,
+      "probability": 0.5612
+    },
+    {
+      "word": "Et",
+      "start": 212.96,
+      "end": 213.26,
+      "probability": 0.973
+    },
+    {
+      "word": "quand",
+      "start": 213.26,
+      "end": 213.78,
+      "probability": 0.9851
+    },
+    {
+      "word": "il",
+      "start": 213.78,
+      "end": 214.12,
+      "probability": 0.4754
+    },
+    {
+      "word": "sert",
+      "start": 214.12,
+      "end": 214.72,
+      "probability": 0.9103
+    },
+    {
+      "word": "à",
+      "start": 214.72,
+      "end": 215.18,
+      "probability": 0.9776
+    },
+    {
+      "word": "la",
+      "start": 215.18,
+      "end": 215.34,
+      "probability": 0.8829
+    },
+    {
+      "word": "part,",
+      "start": 215.34,
+      "end": 215.62,
+      "probability": 0.0727
+    },
+    {
+      "word": "ce",
+      "start": 217.32,
+      "end": 217.4,
+      "probability": 0.9645
+    },
+    {
+      "word": "soir",
+      "start": 217.4,
+      "end": 217.84,
+      "probability": 0.998
+    },
+    {
+      "word": "même",
+      "start": 217.84,
+      "end": 218.3,
+      "probability": 0.0459
+    },
+    {
+      "word": "oublie",
+      "start": 218.3,
+      "end": 219.24,
+      "probability": 0.326
+    },
+    {
+      "word": "pas,",
+      "start": 221.16,
+      "end": 221.26,
+      "probability": 0.0018
+    },
+    {
+      "word": "je",
+      "start": 221.26,
+      "end": 221.64,
+      "probability": 0.0005
+    },
+    {
+      "word": "t",
+      "start": 221.64,
+      "end": 221.64,
+      "probability": 0.3047
+    },
+    {
+      "word": "'endrai",
+      "start": 221.64,
+      "end": 222.16,
+      "probability": 0.4214
+    },
+    {
+      "word": "au",
+      "start": 222.16,
+      "end": 222.68,
+      "probability": 0.8959
+    },
+    {
+      "word": "moins",
+      "start": 222.68,
+      "end": 223.22,
+      "probability": 0.994
+    },
+    {
+      "word": "le",
+      "start": 223.22,
+      "end": 223.76,
+      "probability": 0.9236
+    },
+    {
+      "word": "temps",
+      "start": 223.76,
+      "end": 224.32,
+      "probability": 0.9982
+    },
+    {
+      "word": "d",
+      "start": 224.32,
+      "end": 224.6,
+      "probability": 0.2936
+    },
+    {
+      "word": "'étire.",
+      "start": 224.6,
+      "end": 225.52,
+      "probability": 0.3884
+    },
+    {
+      "word": "Que",
+      "start": 225.68,
+      "end": 225.92,
+      "probability": 0.4714
+    },
+    {
+      "word": "j",
+      "start": 225.92,
+      "end": 226.1,
+      "probability": 0.0178
+    },
+    {
+      "word": "'ai",
+      "start": 226.1,
+      "end": 226.32,
+      "probability": 0.8207
+    },
+    {
+      "word": "voulu",
+      "start": 226.32,
+      "end": 226.98,
+      "probability": 0.4901
+    },
+    {
+      "word": "prendre",
+      "start": 226.98,
+      "end": 227.36,
+      "probability": 0.9531
+    },
+    {
+      "word": "le",
+      "start": 227.36,
+      "end": 228.04,
+      "probability": 0.9613
+    },
+    {
+      "word": "plus",
+      "start": 228.04,
+      "end": 228.38,
+      "probability": 0.997
+    },
+    {
+      "word": "grand",
+      "start": 228.38,
+      "end": 228.96,
+      "probability": 0.9815
+    },
+    {
+      "word": "risque.",
+      "start": 228.96,
+      "end": 229.74,
+      "probability": 0.883
+    },
+    {
+      "word": "Au",
+      "start": 230.06,
+      "end": 230.14,
+      "probability": 0.0202
+    },
+    {
+      "word": "soir",
+      "start": 230.14,
+      "end": 230.48,
+      "probability": 0.7846
+    },
+    {
+      "word": "qui",
+      "start": 230.48,
+      "end": 231.22,
+      "probability": 0.3274
+    },
+    {
+      "word": "me",
+      "start": 231.22,
+      "end": 231.56,
+      "probability": 0.0021
+    },
+    {
+      "word": "rendit",
+      "start": 231.56,
+      "end": 232.72,
+      "probability": 0.6284
+    },
+    {
+      "word": "bien",
+      "start": 232.72,
+      "end": 233.24,
+      "probability": 0.2913
+    },
+    {
+      "word": "triste.",
+      "start": 233.24,
+      "end": 233.52,
+      "probability": 0.2537
+    }
+  ]
+}

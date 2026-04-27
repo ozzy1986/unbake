@@ -1,0 +1,1619 @@
+{
+  "sourceAudio": "data\\unbake-vocals\\es\\Peso Pluma & Anitta - BELLAKEO.m4a",
+  "model": {
+    "name": "faster-whisper",
+    "size": "small",
+    "device": "cpu",
+    "computeType": "int8",
+    "beamSize": 1
+  },
+  "detectedLanguage": "es",
+  "languageProbability": 1.0,
+  "duration": 197.368,
+  "runtime": {
+    "modelLoadSeconds": 3.752,
+    "transcribeSeconds": 377.432,
+    "totalSeconds": 381.184
+  },
+  "plainLyrics": "Salió de su casa con la mente encendida\nHoy discutió con el otro\nme la dejó servida\nLa recoger la plan B en la radiocata con su nena\nUno, siete, clases, azul, y vamos, diga esto el club, porque eso lo quiere ver\nNo noche bella, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea\nEl ambiente se pone peligroso, se fequería, papi, tata durum, que tú lo sabías\nTe haré mucho más de lo que pedías, que ni la que esta noche pasaría\nUna recuega el abalde naté, y ella dice, unos acusas unis, vamos, piacos, no\nPorque viene esa noche de juego, perdón a te ve, que hoy, que hoy, que hoy, que hoy, que hoy, que hoy...\ntú vayas que no me, tú vayas que no es el suelo\nmamita si mucho pensala me voy con usted\ny to'a, yale, te sopa que me\ncorre con mi no se proptando como tenete\ntú vayas que no me, tú vayas que no es el suelo\nmamita si mucho pensala me voy con usted\ny jay sube el pereo en el coquimien como el pereo\nlos no te veía que...\nte voy a te...\nte voy a te...\nte voy a te...\nte voy a te...\naquí no hay nada\nbeso, beso, broma\nun reloj bebé",
+  "syncedLyrics": "[00:10.99] Salió de su casa con la mente encendida\n[00:15.21] Hoy discutió con el otro\n[00:17.09] me la dejó servida\n[00:19.87] La recoger la plan B en la radiocata con su nena\n[00:26.92] Uno, siete, clases, azul, y vamos, diga esto el club, porque eso lo quiere ver\n[00:32.10] No noche bella, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea\n[01:15.38] El ambiente se pone peligroso, se fequería, papi, tata durum, que tú lo sabías\n[01:21.84] Te haré mucho más de lo que pedías, que ni la que esta noche pasaría\n[01:28.72] Una recuega el abalde naté, y ella dice, unos acusas unis, vamos, piacos, no\n[01:36.86] Porque viene esa noche de juego, perdón a te ve, que hoy, que hoy, que hoy, que hoy, que hoy, que hoy...\n[02:18.66] tú vayas que no me, tú vayas que no es el suelo\n[02:20.56] mamita si mucho pensala me voy con usted\n[02:23.16] y to'a, yale, te sopa que me\n[02:25.82] corre con mi no se proptando como tenete\n[02:28.40] tú vayas que no me, tú vayas que no es el suelo\n[02:31.22] mamita si mucho pensala me voy con usted\n[02:33.80] y jay sube el pereo en el coquimien como el pereo\n[02:44.26] los no te veía que...\n[02:45.68] te voy a te...\n[02:46.98] te voy a te...\n[02:48.32] te voy a te...\n[02:51.68] te voy a te...\n[02:56.80] aquí no hay nada\n[03:01.96] beso, beso, broma\n[03:04.80] un reloj bebé",
+  "segments": [
+    {
+      "start": 10.99,
+      "end": 13.85,
+      "text": "Salió de su casa con la mente encendida"
+    },
+    {
+      "start": 15.21,
+      "end": 17.09,
+      "text": "Hoy discutió con el otro"
+    },
+    {
+      "start": 17.09,
+      "end": 19.21,
+      "text": "me la dejó servida"
+    },
+    {
+      "start": 19.87,
+      "end": 26.92,
+      "text": "La recoger la plan B en la radiocata con su nena"
+    },
+    {
+      "start": 26.92,
+      "end": 32.1,
+      "text": "Uno, siete, clases, azul, y vamos, diga esto el club, porque eso lo quiere ver"
+    },
+    {
+      "start": 32.1,
+      "end": 44.02,
+      "text": "No noche bella, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea, que obea"
+    },
+    {
+      "start": 75.38,
+      "end": 81.84,
+      "text": "El ambiente se pone peligroso, se fequería, papi, tata durum, que tú lo sabías"
+    },
+    {
+      "start": 81.84,
+      "end": 87.06,
+      "text": "Te haré mucho más de lo que pedías, que ni la que esta noche pasaría"
+    },
+    {
+      "start": 88.72,
+      "end": 96.86,
+      "text": "Una recuega el abalde naté, y ella dice, unos acusas unis, vamos, piacos, no"
+    },
+    {
+      "start": 96.86,
+      "end": 108.66,
+      "text": "Porque viene esa noche de juego, perdón a te ve, que hoy, que hoy, que hoy, que hoy, que hoy, que hoy..."
+    },
+    {
+      "start": 138.66,
+      "end": 140.56,
+      "text": "tú vayas que no me, tú vayas que no es el suelo"
+    },
+    {
+      "start": 140.56,
+      "end": 143.16,
+      "text": "mamita si mucho pensala me voy con usted"
+    },
+    {
+      "start": 143.16,
+      "end": 145.82,
+      "text": "y to'a, yale, te sopa que me"
+    },
+    {
+      "start": 145.82,
+      "end": 148.4,
+      "text": "corre con mi no se proptando como tenete"
+    },
+    {
+      "start": 148.4,
+      "end": 151.22,
+      "text": "tú vayas que no me, tú vayas que no es el suelo"
+    },
+    {
+      "start": 151.22,
+      "end": 153.8,
+      "text": "mamita si mucho pensala me voy con usted"
+    },
+    {
+      "start": 153.8,
+      "end": 163.46,
+      "text": "y jay sube el pereo en el coquimien como el pereo"
+    },
+    {
+      "start": 164.26,
+      "end": 165.68,
+      "text": "los no te veía que..."
+    },
+    {
+      "start": 165.68,
+      "end": 166.98,
+      "text": "te voy a te..."
+    },
+    {
+      "start": 166.98,
+      "end": 168.32,
+      "text": "te voy a te..."
+    },
+    {
+      "start": 168.32,
+      "end": 171.68,
+      "text": "te voy a te..."
+    },
+    {
+      "start": 171.68,
+      "end": 172.66,
+      "text": "te voy a te..."
+    },
+    {
+      "start": 176.8,
+      "end": 178.74,
+      "text": "aquí no hay nada"
+    },
+    {
+      "start": 181.96,
+      "end": 183.82,
+      "text": "beso, beso, broma"
+    },
+    {
+      "start": 184.8,
+      "end": 186.58,
+      "text": "un reloj bebé"
+    }
+  ],
+  "words": [
+    {
+      "word": "Salió",
+      "start": 10.99,
+      "end": 11.65,
+      "probability": 0.5612
+    },
+    {
+      "word": "de",
+      "start": 11.65,
+      "end": 11.81,
+      "probability": 0.925
+    },
+    {
+      "word": "su",
+      "start": 11.81,
+      "end": 11.93,
+      "probability": 0.9667
+    },
+    {
+      "word": "casa",
+      "start": 11.93,
+      "end": 12.15,
+      "probability": 0.9904
+    },
+    {
+      "word": "con",
+      "start": 12.15,
+      "end": 12.49,
+      "probability": 0.9783
+    },
+    {
+      "word": "la",
+      "start": 12.49,
+      "end": 12.67,
+      "probability": 0.9934
+    },
+    {
+      "word": "mente",
+      "start": 12.67,
+      "end": 12.85,
+      "probability": 0.9584
+    },
+    {
+      "word": "encendida",
+      "start": 12.85,
+      "end": 13.85,
+      "probability": 0.9792
+    },
+    {
+      "word": "Hoy",
+      "start": 15.21,
+      "end": 15.69,
+      "probability": 0.7329
+    },
+    {
+      "word": "discutió",
+      "start": 15.69,
+      "end": 16.17,
+      "probability": 0.9587
+    },
+    {
+      "word": "con",
+      "start": 16.17,
+      "end": 16.51,
+      "probability": 0.9899
+    },
+    {
+      "word": "el",
+      "start": 16.51,
+      "end": 16.73,
+      "probability": 0.9827
+    },
+    {
+      "word": "otro",
+      "start": 16.73,
+      "end": 17.09,
+      "probability": 0.9891
+    },
+    {
+      "word": "me",
+      "start": 17.09,
+      "end": 17.79,
+      "probability": 0.2335
+    },
+    {
+      "word": "la",
+      "start": 17.79,
+      "end": 17.95,
+      "probability": 0.9457
+    },
+    {
+      "word": "dejó",
+      "start": 17.95,
+      "end": 18.27,
+      "probability": 0.841
+    },
+    {
+      "word": "servida",
+      "start": 18.27,
+      "end": 19.21,
+      "probability": 0.7675
+    },
+    {
+      "word": "La",
+      "start": 19.87,
+      "end": 20.35,
+      "probability": 0.0448
+    },
+    {
+      "word": "recoger",
+      "start": 23.3,
+      "end": 23.76,
+      "probability": 0.9323
+    },
+    {
+      "word": "la",
+      "start": 23.76,
+      "end": 24.22,
+      "probability": 0.4949
+    },
+    {
+      "word": "plan",
+      "start": 24.22,
+      "end": 24.54,
+      "probability": 0.3724
+    },
+    {
+      "word": "B",
+      "start": 24.54,
+      "end": 24.92,
+      "probability": 0.5093
+    },
+    {
+      "word": "en",
+      "start": 24.92,
+      "end": 25.16,
+      "probability": 0.841
+    },
+    {
+      "word": "la",
+      "start": 25.16,
+      "end": 25.28,
+      "probability": 0.983
+    },
+    {
+      "word": "radiocata",
+      "start": 25.28,
+      "end": 25.8,
+      "probability": 0.5134
+    },
+    {
+      "word": "con",
+      "start": 25.8,
+      "end": 26.12,
+      "probability": 0.98
+    },
+    {
+      "word": "su",
+      "start": 26.12,
+      "end": 26.28,
+      "probability": 0.9775
+    },
+    {
+      "word": "nena",
+      "start": 26.28,
+      "end": 26.92,
+      "probability": 0.9886
+    },
+    {
+      "word": "Uno,",
+      "start": 26.92,
+      "end": 27.86,
+      "probability": 0.6437
+    },
+    {
+      "word": "siete,",
+      "start": 27.98,
+      "end": 28.1,
+      "probability": 0.7106
+    },
+    {
+      "word": "clases,",
+      "start": 28.16,
+      "end": 28.48,
+      "probability": 0.6705
+    },
+    {
+      "word": "azul,",
+      "start": 28.74,
+      "end": 28.98,
+      "probability": 0.2931
+    },
+    {
+      "word": "y",
+      "start": 29.04,
+      "end": 29.14,
+      "probability": 0.7932
+    },
+    {
+      "word": "vamos,",
+      "start": 29.14,
+      "end": 29.34,
+      "probability": 0.7915
+    },
+    {
+      "word": "diga",
+      "start": 29.54,
+      "end": 29.7,
+      "probability": 0.66
+    },
+    {
+      "word": "esto",
+      "start": 29.7,
+      "end": 29.9,
+      "probability": 0.335
+    },
+    {
+      "word": "el",
+      "start": 29.9,
+      "end": 29.98,
+      "probability": 0.3382
+    },
+    {
+      "word": "club,",
+      "start": 29.98,
+      "end": 30.22,
+      "probability": 0.9194
+    },
+    {
+      "word": "porque",
+      "start": 30.34,
+      "end": 30.6,
+      "probability": 0.8182
+    },
+    {
+      "word": "eso",
+      "start": 30.6,
+      "end": 31.04,
+      "probability": 0.3686
+    },
+    {
+      "word": "lo",
+      "start": 31.04,
+      "end": 31.26,
+      "probability": 0.4286
+    },
+    {
+      "word": "quiere",
+      "start": 31.26,
+      "end": 31.48,
+      "probability": 0.746
+    },
+    {
+      "word": "ver",
+      "start": 31.48,
+      "end": 32.1,
+      "probability": 0.6952
+    },
+    {
+      "word": "No",
+      "start": 32.1,
+      "end": 32.52,
+      "probability": 0.1473
+    },
+    {
+      "word": "noche",
+      "start": 33.86,
+      "end": 34.22,
+      "probability": 0.4692
+    },
+    {
+      "word": "bella,",
+      "start": 34.22,
+      "end": 34.64,
+      "probability": 0.5753
+    },
+    {
+      "word": "que",
+      "start": 34.64,
+      "end": 34.84,
+      "probability": 0.547
+    },
+    {
+      "word": "obea,",
+      "start": 34.84,
+      "end": 35.26,
+      "probability": 0.2095
+    },
+    {
+      "word": "que",
+      "start": 35.26,
+      "end": 35.46,
+      "probability": 0.9394
+    },
+    {
+      "word": "obea,",
+      "start": 35.46,
+      "end": 35.98,
+      "probability": 0.9702
+    },
+    {
+      "word": "que",
+      "start": 35.98,
+      "end": 36.12,
+      "probability": 0.9772
+    },
+    {
+      "word": "obea,",
+      "start": 36.12,
+      "end": 36.62,
+      "probability": 0.9774
+    },
+    {
+      "word": "que",
+      "start": 36.62,
+      "end": 36.84,
+      "probability": 0.9686
+    },
+    {
+      "word": "obea,",
+      "start": 36.84,
+      "end": 37.34,
+      "probability": 0.9703
+    },
+    {
+      "word": "que",
+      "start": 37.34,
+      "end": 37.56,
+      "probability": 0.9639
+    },
+    {
+      "word": "obea,",
+      "start": 37.56,
+      "end": 37.88,
+      "probability": 0.9369
+    },
+    {
+      "word": "que",
+      "start": 37.88,
+      "end": 37.88,
+      "probability": 0.9827
+    },
+    {
+      "word": "obea,",
+      "start": 37.88,
+      "end": 39.98,
+      "probability": 0.9594
+    },
+    {
+      "word": "que",
+      "start": 39.98,
+      "end": 40.84,
+      "probability": 0.9911
+    },
+    {
+      "word": "obea,",
+      "start": 40.84,
+      "end": 41.3,
+      "probability": 0.9867
+    },
+    {
+      "word": "que",
+      "start": 41.3,
+      "end": 41.46,
+      "probability": 0.9934
+    },
+    {
+      "word": "obea,",
+      "start": 41.46,
+      "end": 41.94,
+      "probability": 0.9897
+    },
+    {
+      "word": "que",
+      "start": 42.04,
+      "end": 42.04,
+      "probability": 0.9932
+    },
+    {
+      "word": "obea,",
+      "start": 42.04,
+      "end": 42.04,
+      "probability": 0.992
+    },
+    {
+      "word": "que",
+      "start": 42.04,
+      "end": 42.12,
+      "probability": 0.9912
+    },
+    {
+      "word": "obea,",
+      "start": 42.12,
+      "end": 42.32,
+      "probability": 0.9893
+    },
+    {
+      "word": "que",
+      "start": 42.32,
+      "end": 42.32,
+      "probability": 0.9906
+    },
+    {
+      "word": "obea,",
+      "start": 42.32,
+      "end": 42.66,
+      "probability": 0.9902
+    },
+    {
+      "word": "que",
+      "start": 42.72,
+      "end": 42.72,
+      "probability": 0.9883
+    },
+    {
+      "word": "obea,",
+      "start": 42.72,
+      "end": 42.72,
+      "probability": 0.9868
+    },
+    {
+      "word": "que",
+      "start": 42.84,
+      "end": 42.86,
+      "probability": 0.9857
+    },
+    {
+      "word": "obea,",
+      "start": 42.86,
+      "end": 42.9,
+      "probability": 0.9855
+    },
+    {
+      "word": "que",
+      "start": 42.9,
+      "end": 42.9,
+      "probability": 0.9861
+    },
+    {
+      "word": "obea,",
+      "start": 42.9,
+      "end": 42.9,
+      "probability": 0.9824
+    },
+    {
+      "word": "que",
+      "start": 42.9,
+      "end": 42.9,
+      "probability": 0.9825
+    },
+    {
+      "word": "obea,",
+      "start": 42.9,
+      "end": 42.98,
+      "probability": 0.9795
+    },
+    {
+      "word": "que",
+      "start": 42.98,
+      "end": 43.14,
+      "probability": 0.9879
+    },
+    {
+      "word": "obea,",
+      "start": 43.14,
+      "end": 43.28,
+      "probability": 0.9818
+    },
+    {
+      "word": "que",
+      "start": 43.28,
+      "end": 43.28,
+      "probability": 0.9912
+    },
+    {
+      "word": "obea,",
+      "start": 43.28,
+      "end": 43.28,
+      "probability": 0.9827
+    },
+    {
+      "word": "que",
+      "start": 43.28,
+      "end": 43.44,
+      "probability": 0.9898
+    },
+    {
+      "word": "obea",
+      "start": 43.44,
+      "end": 44.02,
+      "probability": 0.9839
+    },
+    {
+      "word": "El",
+      "start": 75.38,
+      "end": 75.98,
+      "probability": 0.0354
+    },
+    {
+      "word": "ambiente",
+      "start": 75.98,
+      "end": 76.28,
+      "probability": 0.9016
+    },
+    {
+      "word": "se",
+      "start": 76.28,
+      "end": 76.6,
+      "probability": 0.9342
+    },
+    {
+      "word": "pone",
+      "start": 76.6,
+      "end": 76.84,
+      "probability": 0.565
+    },
+    {
+      "word": "peligroso,",
+      "start": 76.84,
+      "end": 77.86,
+      "probability": 0.9816
+    },
+    {
+      "word": "se",
+      "start": 77.88,
+      "end": 78.22,
+      "probability": 0.2879
+    },
+    {
+      "word": "fequería,",
+      "start": 78.22,
+      "end": 79.18,
+      "probability": 0.6901
+    },
+    {
+      "word": "papi,",
+      "start": 79.26,
+      "end": 79.6,
+      "probability": 0.4681
+    },
+    {
+      "word": "tata",
+      "start": 79.74,
+      "end": 79.84,
+      "probability": 0.1396
+    },
+    {
+      "word": "durum,",
+      "start": 79.84,
+      "end": 80.56,
+      "probability": 0.2467
+    },
+    {
+      "word": "que",
+      "start": 80.56,
+      "end": 80.78,
+      "probability": 0.8188
+    },
+    {
+      "word": "tú",
+      "start": 80.78,
+      "end": 80.9,
+      "probability": 0.8017
+    },
+    {
+      "word": "lo",
+      "start": 80.9,
+      "end": 81.06,
+      "probability": 0.9062
+    },
+    {
+      "word": "sabías",
+      "start": 81.06,
+      "end": 81.84,
+      "probability": 0.9044
+    },
+    {
+      "word": "Te",
+      "start": 81.84,
+      "end": 82.62,
+      "probability": 0.0821
+    },
+    {
+      "word": "haré",
+      "start": 82.62,
+      "end": 82.76,
+      "probability": 0.8069
+    },
+    {
+      "word": "mucho",
+      "start": 82.76,
+      "end": 83.02,
+      "probability": 0.9757
+    },
+    {
+      "word": "más",
+      "start": 83.02,
+      "end": 83.28,
+      "probability": 0.8317
+    },
+    {
+      "word": "de",
+      "start": 83.28,
+      "end": 83.44,
+      "probability": 0.9801
+    },
+    {
+      "word": "lo",
+      "start": 83.44,
+      "end": 83.58,
+      "probability": 0.9746
+    },
+    {
+      "word": "que",
+      "start": 83.58,
+      "end": 83.76,
+      "probability": 0.997
+    },
+    {
+      "word": "pedías,",
+      "start": 83.76,
+      "end": 84.5,
+      "probability": 0.8632
+    },
+    {
+      "word": "que",
+      "start": 84.56,
+      "end": 85.12,
+      "probability": 0.2813
+    },
+    {
+      "word": "ni",
+      "start": 85.12,
+      "end": 85.28,
+      "probability": 0.8717
+    },
+    {
+      "word": "la",
+      "start": 85.28,
+      "end": 85.6,
+      "probability": 0.2036
+    },
+    {
+      "word": "que",
+      "start": 85.6,
+      "end": 85.7,
+      "probability": 0.6831
+    },
+    {
+      "word": "esta",
+      "start": 85.7,
+      "end": 85.92,
+      "probability": 0.6919
+    },
+    {
+      "word": "noche",
+      "start": 85.92,
+      "end": 86.16,
+      "probability": 0.9917
+    },
+    {
+      "word": "pasaría",
+      "start": 86.16,
+      "end": 87.06,
+      "probability": 0.9402
+    },
+    {
+      "word": "Una",
+      "start": 88.72,
+      "end": 89.46,
+      "probability": 0.2822
+    },
+    {
+      "word": "recuega",
+      "start": 89.46,
+      "end": 89.9,
+      "probability": 0.1945
+    },
+    {
+      "word": "el",
+      "start": 89.9,
+      "end": 90.2,
+      "probability": 0.3119
+    },
+    {
+      "word": "abalde",
+      "start": 90.2,
+      "end": 90.66,
+      "probability": 0.4351
+    },
+    {
+      "word": "naté,",
+      "start": 90.66,
+      "end": 91.62,
+      "probability": 0.1844
+    },
+    {
+      "word": "y",
+      "start": 92.0,
+      "end": 92.36,
+      "probability": 0.845
+    },
+    {
+      "word": "ella",
+      "start": 92.36,
+      "end": 92.62,
+      "probability": 0.9727
+    },
+    {
+      "word": "dice,",
+      "start": 92.62,
+      "end": 93.06,
+      "probability": 0.9759
+    },
+    {
+      "word": "unos",
+      "start": 93.7,
+      "end": 94.66,
+      "probability": 0.1162
+    },
+    {
+      "word": "acusas",
+      "start": 94.66,
+      "end": 95.26,
+      "probability": 0.2258
+    },
+    {
+      "word": "unis,",
+      "start": 95.26,
+      "end": 95.82,
+      "probability": 0.1253
+    },
+    {
+      "word": "vamos,",
+      "start": 95.84,
+      "end": 96.0,
+      "probability": 0.6707
+    },
+    {
+      "word": "piacos,",
+      "start": 96.2,
+      "end": 96.58,
+      "probability": 0.1679
+    },
+    {
+      "word": "no",
+      "start": 96.76,
+      "end": 96.86,
+      "probability": 0.1958
+    },
+    {
+      "word": "Porque",
+      "start": 96.86,
+      "end": 97.2,
+      "probability": 0.004
+    },
+    {
+      "word": "viene",
+      "start": 97.2,
+      "end": 97.52,
+      "probability": 0.0008
+    },
+    {
+      "word": "esa",
+      "start": 97.52,
+      "end": 97.78,
+      "probability": 0.1022
+    },
+    {
+      "word": "noche",
+      "start": 97.78,
+      "end": 98.0,
+      "probability": 0.2261
+    },
+    {
+      "word": "de",
+      "start": 98.0,
+      "end": 98.28,
+      "probability": 0.2207
+    },
+    {
+      "word": "juego,",
+      "start": 98.28,
+      "end": 98.54,
+      "probability": 0.0063
+    },
+    {
+      "word": "perdón",
+      "start": 98.62,
+      "end": 100.62,
+      "probability": 0.8404
+    },
+    {
+      "word": "a",
+      "start": 100.62,
+      "end": 100.78,
+      "probability": 0.1851
+    },
+    {
+      "word": "te",
+      "start": 100.78,
+      "end": 100.96,
+      "probability": 0.1654
+    },
+    {
+      "word": "ve,",
+      "start": 100.96,
+      "end": 101.1,
+      "probability": 0.6598
+    },
+    {
+      "word": "que",
+      "start": 101.22,
+      "end": 101.48,
+      "probability": 0.1286
+    },
+    {
+      "word": "hoy,",
+      "start": 101.48,
+      "end": 101.7,
+      "probability": 0.0729
+    },
+    {
+      "word": "que",
+      "start": 101.8,
+      "end": 102.16,
+      "probability": 0.9319
+    },
+    {
+      "word": "hoy,",
+      "start": 102.16,
+      "end": 102.38,
+      "probability": 0.9983
+    },
+    {
+      "word": "que",
+      "start": 102.44,
+      "end": 102.84,
+      "probability": 0.9823
+    },
+    {
+      "word": "hoy,",
+      "start": 102.84,
+      "end": 103.06,
+      "probability": 0.999
+    },
+    {
+      "word": "que",
+      "start": 103.08,
+      "end": 103.46,
+      "probability": 0.9789
+    },
+    {
+      "word": "hoy,",
+      "start": 103.46,
+      "end": 103.7,
+      "probability": 0.9975
+    },
+    {
+      "word": "que",
+      "start": 103.76,
+      "end": 104.02,
+      "probability": 0.9716
+    },
+    {
+      "word": "hoy,",
+      "start": 104.02,
+      "end": 104.02,
+      "probability": 0.9872
+    },
+    {
+      "word": "que",
+      "start": 104.02,
+      "end": 104.18,
+      "probability": 0.9662
+    },
+    {
+      "word": "hoy...",
+      "start": 104.18,
+      "end": 108.66,
+      "probability": 0.4839
+    },
+    {
+      "word": "tú",
+      "start": 138.66,
+      "end": 138.78,
+      "probability": 0.0061
+    },
+    {
+      "word": "vayas",
+      "start": 138.78,
+      "end": 138.86,
+      "probability": 0.554
+    },
+    {
+      "word": "que",
+      "start": 138.86,
+      "end": 138.86,
+      "probability": 0.5409
+    },
+    {
+      "word": "no",
+      "start": 138.86,
+      "end": 138.86,
+      "probability": 0.8129
+    },
+    {
+      "word": "me,",
+      "start": 138.86,
+      "end": 139.14,
+      "probability": 0.6701
+    },
+    {
+      "word": "tú",
+      "start": 139.34,
+      "end": 139.62,
+      "probability": 0.2729
+    },
+    {
+      "word": "vayas",
+      "start": 139.62,
+      "end": 139.9,
+      "probability": 0.9788
+    },
+    {
+      "word": "que",
+      "start": 139.9,
+      "end": 140.08,
+      "probability": 0.9281
+    },
+    {
+      "word": "no",
+      "start": 140.08,
+      "end": 140.18,
+      "probability": 0.5715
+    },
+    {
+      "word": "es",
+      "start": 140.18,
+      "end": 140.34,
+      "probability": 0.2975
+    },
+    {
+      "word": "el",
+      "start": 140.34,
+      "end": 140.48,
+      "probability": 0.3546
+    },
+    {
+      "word": "suelo",
+      "start": 140.48,
+      "end": 140.56,
+      "probability": 0.3433
+    },
+    {
+      "word": "mamita",
+      "start": 140.56,
+      "end": 141.16,
+      "probability": 0.7673
+    },
+    {
+      "word": "si",
+      "start": 141.16,
+      "end": 141.4,
+      "probability": 0.4206
+    },
+    {
+      "word": "mucho",
+      "start": 141.4,
+      "end": 141.66,
+      "probability": 0.5449
+    },
+    {
+      "word": "pensala",
+      "start": 141.66,
+      "end": 142.16,
+      "probability": 0.3763
+    },
+    {
+      "word": "me",
+      "start": 142.16,
+      "end": 142.4,
+      "probability": 0.6808
+    },
+    {
+      "word": "voy",
+      "start": 142.4,
+      "end": 142.58,
+      "probability": 0.9911
+    },
+    {
+      "word": "con",
+      "start": 142.58,
+      "end": 142.8,
+      "probability": 0.9899
+    },
+    {
+      "word": "usted",
+      "start": 142.8,
+      "end": 143.16,
+      "probability": 0.8783
+    },
+    {
+      "word": "y",
+      "start": 143.16,
+      "end": 143.68,
+      "probability": 0.2141
+    },
+    {
+      "word": "to",
+      "start": 143.68,
+      "end": 143.96,
+      "probability": 0.224
+    },
+    {
+      "word": "'a,",
+      "start": 143.96,
+      "end": 144.02,
+      "probability": 0.2476
+    },
+    {
+      "word": "yale,",
+      "start": 144.06,
+      "end": 144.4,
+      "probability": 0.1442
+    },
+    {
+      "word": "te",
+      "start": 144.76,
+      "end": 144.92,
+      "probability": 0.6913
+    },
+    {
+      "word": "sopa",
+      "start": 144.92,
+      "end": 145.24,
+      "probability": 0.6507
+    },
+    {
+      "word": "que",
+      "start": 145.24,
+      "end": 145.48,
+      "probability": 0.3684
+    },
+    {
+      "word": "me",
+      "start": 145.48,
+      "end": 145.82,
+      "probability": 0.9591
+    },
+    {
+      "word": "corre",
+      "start": 145.82,
+      "end": 146.34,
+      "probability": 0.3102
+    },
+    {
+      "word": "con",
+      "start": 146.34,
+      "end": 146.62,
+      "probability": 0.4895
+    },
+    {
+      "word": "mi",
+      "start": 146.62,
+      "end": 146.8,
+      "probability": 0.2411
+    },
+    {
+      "word": "no",
+      "start": 146.8,
+      "end": 146.92,
+      "probability": 0.3622
+    },
+    {
+      "word": "se",
+      "start": 146.92,
+      "end": 147.04,
+      "probability": 0.6492
+    },
+    {
+      "word": "proptando",
+      "start": 147.04,
+      "end": 147.54,
+      "probability": 0.352
+    },
+    {
+      "word": "como",
+      "start": 147.54,
+      "end": 147.86,
+      "probability": 0.9363
+    },
+    {
+      "word": "tenete",
+      "start": 147.86,
+      "end": 148.4,
+      "probability": 0.4478
+    },
+    {
+      "word": "tú",
+      "start": 148.4,
+      "end": 148.98,
+      "probability": 0.6893
+    },
+    {
+      "word": "vayas",
+      "start": 148.98,
+      "end": 149.3,
+      "probability": 0.9871
+    },
+    {
+      "word": "que",
+      "start": 149.3,
+      "end": 149.42,
+      "probability": 0.9978
+    },
+    {
+      "word": "no",
+      "start": 149.42,
+      "end": 149.58,
+      "probability": 0.9985
+    },
+    {
+      "word": "me,",
+      "start": 149.58,
+      "end": 149.86,
+      "probability": 0.9938
+    },
+    {
+      "word": "tú",
+      "start": 150.02,
+      "end": 150.3,
+      "probability": 0.9431
+    },
+    {
+      "word": "vayas",
+      "start": 150.3,
+      "end": 150.54,
+      "probability": 0.9983
+    },
+    {
+      "word": "que",
+      "start": 150.54,
+      "end": 150.72,
+      "probability": 0.9977
+    },
+    {
+      "word": "no",
+      "start": 150.72,
+      "end": 150.86,
+      "probability": 0.9469
+    },
+    {
+      "word": "es",
+      "start": 150.86,
+      "end": 151.02,
+      "probability": 0.9964
+    },
+    {
+      "word": "el",
+      "start": 151.02,
+      "end": 151.04,
+      "probability": 0.9905
+    },
+    {
+      "word": "suelo",
+      "start": 151.04,
+      "end": 151.22,
+      "probability": 0.9975
+    },
+    {
+      "word": "mamita",
+      "start": 151.22,
+      "end": 151.8,
+      "probability": 0.9823
+    },
+    {
+      "word": "si",
+      "start": 151.8,
+      "end": 152.04,
+      "probability": 0.9803
+    },
+    {
+      "word": "mucho",
+      "start": 152.04,
+      "end": 152.26,
+      "probability": 0.9983
+    },
+    {
+      "word": "pensala",
+      "start": 152.26,
+      "end": 152.82,
+      "probability": 0.949
+    },
+    {
+      "word": "me",
+      "start": 152.82,
+      "end": 153.08,
+      "probability": 0.983
+    },
+    {
+      "word": "voy",
+      "start": 153.08,
+      "end": 153.22,
+      "probability": 0.994
+    },
+    {
+      "word": "con",
+      "start": 153.22,
+      "end": 153.46,
+      "probability": 0.9985
+    },
+    {
+      "word": "usted",
+      "start": 153.46,
+      "end": 153.8,
+      "probability": 0.9823
+    },
+    {
+      "word": "y",
+      "start": 153.8,
+      "end": 154.78,
+      "probability": 0.5516
+    },
+    {
+      "word": "jay",
+      "start": 158.27,
+      "end": 158.57,
+      "probability": 0.1717
+    },
+    {
+      "word": "sube",
+      "start": 158.57,
+      "end": 158.97,
+      "probability": 0.8068
+    },
+    {
+      "word": "el",
+      "start": 158.97,
+      "end": 159.21,
+      "probability": 0.7193
+    },
+    {
+      "word": "pereo",
+      "start": 159.21,
+      "end": 159.79,
+      "probability": 0.6202
+    },
+    {
+      "word": "en",
+      "start": 161.1,
+      "end": 161.3,
+      "probability": 0.5648
+    },
+    {
+      "word": "el",
+      "start": 161.3,
+      "end": 161.54,
+      "probability": 0.8035
+    },
+    {
+      "word": "coquimien",
+      "start": 161.54,
+      "end": 162.02,
+      "probability": 0.3078
+    },
+    {
+      "word": "como",
+      "start": 162.02,
+      "end": 162.38,
+      "probability": 0.9144
+    },
+    {
+      "word": "el",
+      "start": 162.38,
+      "end": 162.84,
+      "probability": 0.1074
+    },
+    {
+      "word": "pereo",
+      "start": 162.84,
+      "end": 163.46,
+      "probability": 0.7075
+    },
+    {
+      "word": "los",
+      "start": 164.26,
+      "end": 164.54,
+      "probability": 0.0133
+    },
+    {
+      "word": "no",
+      "start": 164.54,
+      "end": 164.74,
+      "probability": 0.4623
+    },
+    {
+      "word": "te",
+      "start": 164.74,
+      "end": 164.94,
+      "probability": 0.6856
+    },
+    {
+      "word": "veía",
+      "start": 164.94,
+      "end": 165.28,
+      "probability": 0.5344
+    },
+    {
+      "word": "que...",
+      "start": 165.28,
+      "end": 165.68,
+      "probability": 0.2021
+    },
+    {
+      "word": "te",
+      "start": 165.68,
+      "end": 166.5,
+      "probability": 0.0597
+    },
+    {
+      "word": "voy",
+      "start": 166.5,
+      "end": 166.5,
+      "probability": 0.6528
+    },
+    {
+      "word": "a",
+      "start": 166.5,
+      "end": 166.64,
+      "probability": 0.6308
+    },
+    {
+      "word": "te...",
+      "start": 166.64,
+      "end": 166.98,
+      "probability": 0.1827
+    },
+    {
+      "word": "te",
+      "start": 166.98,
+      "end": 167.5,
+      "probability": 0.7129
+    },
+    {
+      "word": "voy",
+      "start": 167.5,
+      "end": 167.68,
+      "probability": 0.9002
+    },
+    {
+      "word": "a",
+      "start": 167.68,
+      "end": 167.96,
+      "probability": 0.9724
+    },
+    {
+      "word": "te...",
+      "start": 167.96,
+      "end": 168.32,
+      "probability": 0.7304
+    },
+    {
+      "word": "te",
+      "start": 168.32,
+      "end": 168.36,
+      "probability": 0.7523
+    },
+    {
+      "word": "voy",
+      "start": 168.36,
+      "end": 170.34,
+      "probability": 0.6804
+    },
+    {
+      "word": "a",
+      "start": 170.34,
+      "end": 170.56,
+      "probability": 0.9657
+    },
+    {
+      "word": "te...",
+      "start": 170.56,
+      "end": 171.68,
+      "probability": 0.8372
+    },
+    {
+      "word": "te",
+      "start": 171.68,
+      "end": 171.8,
+      "probability": 0.0021
+    },
+    {
+      "word": "voy",
+      "start": 171.8,
+      "end": 171.92,
+      "probability": 0.0252
+    },
+    {
+      "word": "a",
+      "start": 171.92,
+      "end": 171.92,
+      "probability": 0.8559
+    },
+    {
+      "word": "te...",
+      "start": 171.92,
+      "end": 172.66,
+      "probability": 0.0045
+    },
+    {
+      "word": "aquí",
+      "start": 176.8,
+      "end": 177.52,
+      "probability": 0.0031
+    },
+    {
+      "word": "no",
+      "start": 177.52,
+      "end": 177.86,
+      "probability": 0.1544
+    },
+    {
+      "word": "hay",
+      "start": 177.86,
+      "end": 178.06,
+      "probability": 0.5272
+    },
+    {
+      "word": "nada",
+      "start": 178.06,
+      "end": 178.74,
+      "probability": 0.4714
+    },
+    {
+      "word": "beso,",
+      "start": 181.96,
+      "end": 182.68,
+      "probability": 0.404
+    },
+    {
+      "word": "beso,",
+      "start": 182.98,
+      "end": 183.3,
+      "probability": 0.911
+    },
+    {
+      "word": "broma",
+      "start": 183.38,
+      "end": 183.82,
+      "probability": 0.6488
+    },
+    {
+      "word": "un",
+      "start": 184.8,
+      "end": 185.52,
+      "probability": 0.102
+    },
+    {
+      "word": "reloj",
+      "start": 185.52,
+      "end": 185.88,
+      "probability": 0.4205
+    },
+    {
+      "word": "bebé",
+      "start": 185.88,
+      "end": 186.58,
+      "probability": 0.7977
+    }
+  ]
+}

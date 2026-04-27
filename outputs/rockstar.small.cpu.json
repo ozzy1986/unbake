@@ -1,0 +1,2789 @@
+{
+  "sourceAudio": "data\\unbake-vocals\\en\\Post Malone & 21 Savage - rockstar.m4a",
+  "model": {
+    "name": "faster-whisper",
+    "size": "small",
+    "device": "cpu",
+    "computeType": "int8",
+    "beamSize": 1
+  },
+  "detectedLanguage": "en",
+  "languageProbability": 1.0,
+  "duration": 218.034,
+  "runtime": {
+    "modelLoadSeconds": 318.32,
+    "transcribeSeconds": 60.154,
+    "totalSeconds": 378.474
+  },
+  "plainLyrics": "I been fuckin' hoes and poppin' pillies\nMan, I feel just like a rockstar\nAll my brothers got that gas and they always be smokin' like a rockstar\nFuckin' with me, call up on the Uzi and show up, man, them the shat-tots\nWhen my homies pull up on your block, they make that thing go grata-tata\nSwitch my whip, came back in black, I'm starting sayin' recipes to bond scott\nClose that doughy blowin' smoke, they ask me like a fire, like a morson\nAct a fool on stage, probably leave my fuckin' show in a cop-cop\nShit was legendary through a TV, I don't even know what I'm on top\nSkokin' on the table, lick a porn, don't give a damn\nDo Joe Devon is a group, he's just tryin' to get in\nSayin' I'm with the band\nAy, ay, now she actin' out of pocket, tryin' to grab up on my pants\nOn their beaches in my trellis, they ain't got a man\nAnd they all brought a friend\nAy, ay, I been fuckin' hoes and poppin' pillies\nMan, I feel just like a rockstar\nAll my brothers got that gas and they always be smokin' like a rockstar\nFuckin' with me, call up on the Uzi and show up, man, them the shat-tots\nMy homies pull up on your block, they make that thing go grata-tata\nI been in the hills, fuckin' superstars, feelin' like a popstar\nDrunk in any bad bitches, jumpin' in the pool and they ain't got no bra\nGet up from the back, pullin' on the tracks and now she screamin' out no amaz\nThey like savage, why you got a 12 car garage and you only got six cars\nI ain't with the cake and how you kiss that\nYo wifey say I'm lookin' like a hoe snap\nGreen Hunnys, in my safe, I got a whole racks\nLA bitches always askin' where the coke at\nLivin' like a rockstar, smash that on the cop car\nSweeter than a pop tart, you know you are not hard\nI done made the hot chart, remember I used to chop hard\nLivin' like a rockstar, I'm livin' like a rockstar\nI been fuckin' hoes and poppin' pillies\nMan, I feel just like a rockstar\nAll my brothers got that gas and they always be smokin' like a rockstar\nFuckin' with me, call up on the Uzi and show up in him the Chattos\nMy homies pull up on your block, they make that thing go grata-ta-ta",
+  "syncedLyrics": "[00:14.61] I been fuckin' hoes and poppin' pillies\n[00:16.73] Man, I feel just like a rockstar\n[00:20.63] All my brothers got that gas and they always be smokin' like a rockstar\n[00:26.87] Fuckin' with me, call up on the Uzi and show up, man, them the shat-tots\n[00:32.65] When my homies pull up on your block, they make that thing go grata-tata\n[00:38.43] Switch my whip, came back in black, I'm starting sayin' recipes to bond scott\n[00:44.65] Close that doughy blowin' smoke, they ask me like a fire, like a morson\n[00:50.65] Act a fool on stage, probably leave my fuckin' show in a cop-cop\n[00:56.61] Shit was legendary through a TV, I don't even know what I'm on top\n[01:00.97] Skokin' on the table, lick a porn, don't give a damn\n[01:03.95] Do Joe Devon is a group, he's just tryin' to get in\n[01:08.53] Sayin' I'm with the band\n[01:11.27] Ay, ay, now she actin' out of pocket, tryin' to grab up on my pants\n[01:15.93] On their beaches in my trellis, they ain't got a man\n[01:20.31] And they all brought a friend\n[01:24.19] Ay, ay, I been fuckin' hoes and poppin' pillies\n[01:28.74] Man, I feel just like a rockstar\n[01:31.18] All my brothers got that gas and they always be smokin' like a rockstar\n[01:38.88] Fuckin' with me, call up on the Uzi and show up, man, them the shat-tots\n[01:43.02] My homies pull up on your block, they make that thing go grata-tata\n[01:50.54] I been in the hills, fuckin' superstars, feelin' like a popstar\n[01:56.26] Drunk in any bad bitches, jumpin' in the pool and they ain't got no bra\n[02:02.20] Get up from the back, pullin' on the tracks and now she screamin' out no amaz\n[02:08.18] They like savage, why you got a 12 car garage and you only got six cars\n[02:13.14] I ain't with the cake and how you kiss that\n[02:15.90] Yo wifey say I'm lookin' like a hoe snap\n[02:18.92] Green Hunnys, in my safe, I got a whole racks\n[02:21.56] LA bitches always askin' where the coke at\n[02:24.50] Livin' like a rockstar, smash that on the cop car\n[02:27.50] Sweeter than a pop tart, you know you are not hard\n[02:30.58] I done made the hot chart, remember I used to chop hard\n[02:33.56] Livin' like a rockstar, I'm livin' like a rockstar\n[02:38.63] I been fuckin' hoes and poppin' pillies\n[02:40.75] Man, I feel just like a rockstar\n[02:43.19] All my brothers got that gas and they always be smokin' like a rockstar\n[02:50.85] Fuckin' with me, call up on the Uzi and show up in him the Chattos\n[02:54.99] My homies pull up on your block, they make that thing go grata-ta-ta",
+  "segments": [
+    {
+      "start": 14.61,
+      "end": 16.73,
+      "text": "I been fuckin' hoes and poppin' pillies"
+    },
+    {
+      "start": 16.73,
+      "end": 18.51,
+      "text": "Man, I feel just like a rockstar"
+    },
+    {
+      "start": 20.63,
+      "end": 24.73,
+      "text": "All my brothers got that gas and they always be smokin' like a rockstar"
+    },
+    {
+      "start": 26.87,
+      "end": 31.03,
+      "text": "Fuckin' with me, call up on the Uzi and show up, man, them the shat-tots"
+    },
+    {
+      "start": 32.65,
+      "end": 36.33,
+      "text": "When my homies pull up on your block, they make that thing go grata-tata"
+    },
+    {
+      "start": 38.43,
+      "end": 42.73,
+      "text": "Switch my whip, came back in black, I'm starting sayin' recipes to bond scott"
+    },
+    {
+      "start": 44.65,
+      "end": 48.05,
+      "text": "Close that doughy blowin' smoke, they ask me like a fire, like a morson"
+    },
+    {
+      "start": 50.65,
+      "end": 55.25,
+      "text": "Act a fool on stage, probably leave my fuckin' show in a cop-cop"
+    },
+    {
+      "start": 56.61,
+      "end": 60.51,
+      "text": "Shit was legendary through a TV, I don't even know what I'm on top"
+    },
+    {
+      "start": 60.97,
+      "end": 63.95,
+      "text": "Skokin' on the table, lick a porn, don't give a damn"
+    },
+    {
+      "start": 63.95,
+      "end": 67.33,
+      "text": "Do Joe Devon is a group, he's just tryin' to get in"
+    },
+    {
+      "start": 68.53,
+      "end": 70.47,
+      "text": "Sayin' I'm with the band"
+    },
+    {
+      "start": 71.27,
+      "end": 75.93,
+      "text": "Ay, ay, now she actin' out of pocket, tryin' to grab up on my pants"
+    },
+    {
+      "start": 75.93,
+      "end": 78.65,
+      "text": "On their beaches in my trellis, they ain't got a man"
+    },
+    {
+      "start": 80.31,
+      "end": 82.01,
+      "text": "And they all brought a friend"
+    },
+    {
+      "start": 84.19,
+      "end": 88.74,
+      "text": "Ay, ay, I been fuckin' hoes and poppin' pillies"
+    },
+    {
+      "start": 88.74,
+      "end": 90.54,
+      "text": "Man, I feel just like a rockstar"
+    },
+    {
+      "start": 91.18,
+      "end": 96.55,
+      "text": "All my brothers got that gas and they always be smokin' like a rockstar"
+    },
+    {
+      "start": 98.88,
+      "end": 103.02,
+      "text": "Fuckin' with me, call up on the Uzi and show up, man, them the shat-tots"
+    },
+    {
+      "start": 103.02,
+      "end": 108.32,
+      "text": "My homies pull up on your block, they make that thing go grata-tata"
+    },
+    {
+      "start": 110.54,
+      "end": 114.58,
+      "text": "I been in the hills, fuckin' superstars, feelin' like a popstar"
+    },
+    {
+      "start": 116.26,
+      "end": 120.52,
+      "text": "Drunk in any bad bitches, jumpin' in the pool and they ain't got no bra"
+    },
+    {
+      "start": 122.2,
+      "end": 126.7,
+      "text": "Get up from the back, pullin' on the tracks and now she screamin' out no amaz"
+    },
+    {
+      "start": 128.18,
+      "end": 132.64,
+      "text": "They like savage, why you got a 12 car garage and you only got six cars"
+    },
+    {
+      "start": 133.14,
+      "end": 135.48,
+      "text": "I ain't with the cake and how you kiss that"
+    },
+    {
+      "start": 135.9,
+      "end": 138.38,
+      "text": "Yo wifey say I'm lookin' like a hoe snap"
+    },
+    {
+      "start": 138.92,
+      "end": 141.56,
+      "text": "Green Hunnys, in my safe, I got a whole racks"
+    },
+    {
+      "start": 141.56,
+      "end": 144.5,
+      "text": "LA bitches always askin' where the coke at"
+    },
+    {
+      "start": 144.5,
+      "end": 147.5,
+      "text": "Livin' like a rockstar, smash that on the cop car"
+    },
+    {
+      "start": 147.5,
+      "end": 150.58,
+      "text": "Sweeter than a pop tart, you know you are not hard"
+    },
+    {
+      "start": 150.58,
+      "end": 153.56,
+      "text": "I done made the hot chart, remember I used to chop hard"
+    },
+    {
+      "start": 153.56,
+      "end": 156.54,
+      "text": "Livin' like a rockstar, I'm livin' like a rockstar"
+    },
+    {
+      "start": 158.63,
+      "end": 160.75,
+      "text": "I been fuckin' hoes and poppin' pillies"
+    },
+    {
+      "start": 160.75,
+      "end": 162.49,
+      "text": "Man, I feel just like a rockstar"
+    },
+    {
+      "start": 163.19,
+      "end": 168.53,
+      "text": "All my brothers got that gas and they always be smokin' like a rockstar"
+    },
+    {
+      "start": 170.85,
+      "end": 174.99,
+      "text": "Fuckin' with me, call up on the Uzi and show up in him the Chattos"
+    },
+    {
+      "start": 174.99,
+      "end": 180.52,
+      "text": "My homies pull up on your block, they make that thing go grata-ta-ta"
+    }
+  ],
+  "words": [
+    {
+      "word": "I",
+      "start": 14.61,
+      "end": 15.03,
+      "probability": 0.1381
+    },
+    {
+      "word": "been",
+      "start": 15.03,
+      "end": 15.21,
+      "probability": 0.111
+    },
+    {
+      "word": "fuckin'",
+      "start": 15.21,
+      "end": 15.47,
+      "probability": 0.3522
+    },
+    {
+      "word": "hoes",
+      "start": 15.67,
+      "end": 15.87,
+      "probability": 0.372
+    },
+    {
+      "word": "and",
+      "start": 15.87,
+      "end": 15.99,
+      "probability": 0.8078
+    },
+    {
+      "word": "poppin'",
+      "start": 15.99,
+      "end": 16.37,
+      "probability": 0.8774
+    },
+    {
+      "word": "pillies",
+      "start": 16.47,
+      "end": 16.73,
+      "probability": 0.661
+    },
+    {
+      "word": "Man,",
+      "start": 16.73,
+      "end": 16.93,
+      "probability": 0.3028
+    },
+    {
+      "word": "I",
+      "start": 17.05,
+      "end": 17.09,
+      "probability": 0.9905
+    },
+    {
+      "word": "feel",
+      "start": 17.09,
+      "end": 17.27,
+      "probability": 0.9821
+    },
+    {
+      "word": "just",
+      "start": 17.27,
+      "end": 17.51,
+      "probability": 0.9863
+    },
+    {
+      "word": "like",
+      "start": 17.51,
+      "end": 17.73,
+      "probability": 0.9964
+    },
+    {
+      "word": "a",
+      "start": 17.73,
+      "end": 17.91,
+      "probability": 0.9703
+    },
+    {
+      "word": "rockstar",
+      "start": 17.91,
+      "end": 18.51,
+      "probability": 0.7391
+    },
+    {
+      "word": "All",
+      "start": 20.63,
+      "end": 21.03,
+      "probability": 0.7109
+    },
+    {
+      "word": "my",
+      "start": 21.03,
+      "end": 21.21,
+      "probability": 0.9963
+    },
+    {
+      "word": "brothers",
+      "start": 21.21,
+      "end": 21.51,
+      "probability": 0.854
+    },
+    {
+      "word": "got",
+      "start": 21.51,
+      "end": 21.79,
+      "probability": 0.9768
+    },
+    {
+      "word": "that",
+      "start": 21.79,
+      "end": 21.99,
+      "probability": 0.8295
+    },
+    {
+      "word": "gas",
+      "start": 21.99,
+      "end": 22.19,
+      "probability": 0.889
+    },
+    {
+      "word": "and",
+      "start": 22.19,
+      "end": 22.39,
+      "probability": 0.6714
+    },
+    {
+      "word": "they",
+      "start": 22.39,
+      "end": 22.57,
+      "probability": 0.9817
+    },
+    {
+      "word": "always",
+      "start": 22.57,
+      "end": 22.87,
+      "probability": 0.9776
+    },
+    {
+      "word": "be",
+      "start": 22.87,
+      "end": 23.09,
+      "probability": 0.9764
+    },
+    {
+      "word": "smokin'",
+      "start": 23.09,
+      "end": 23.49,
+      "probability": 0.8852
+    },
+    {
+      "word": "like",
+      "start": 23.57,
+      "end": 23.67,
+      "probability": 0.9456
+    },
+    {
+      "word": "a",
+      "start": 23.67,
+      "end": 23.91,
+      "probability": 0.977
+    },
+    {
+      "word": "rockstar",
+      "start": 23.91,
+      "end": 24.73,
+      "probability": 0.8839
+    },
+    {
+      "word": "Fuckin'",
+      "start": 26.87,
+      "end": 27.27,
+      "probability": 0.8933
+    },
+    {
+      "word": "with",
+      "start": 27.27,
+      "end": 27.41,
+      "probability": 0.9377
+    },
+    {
+      "word": "me,",
+      "start": 27.41,
+      "end": 27.57,
+      "probability": 0.9961
+    },
+    {
+      "word": "call",
+      "start": 27.67,
+      "end": 27.79,
+      "probability": 0.6537
+    },
+    {
+      "word": "up",
+      "start": 27.79,
+      "end": 28.05,
+      "probability": 0.7863
+    },
+    {
+      "word": "on",
+      "start": 28.05,
+      "end": 28.23,
+      "probability": 0.9382
+    },
+    {
+      "word": "the",
+      "start": 28.23,
+      "end": 28.37,
+      "probability": 0.8002
+    },
+    {
+      "word": "Uzi",
+      "start": 28.37,
+      "end": 28.67,
+      "probability": 0.6309
+    },
+    {
+      "word": "and",
+      "start": 28.67,
+      "end": 28.91,
+      "probability": 0.857
+    },
+    {
+      "word": "show",
+      "start": 28.91,
+      "end": 29.11,
+      "probability": 0.9925
+    },
+    {
+      "word": "up,",
+      "start": 29.11,
+      "end": 29.33,
+      "probability": 0.902
+    },
+    {
+      "word": "man,",
+      "start": 29.33,
+      "end": 29.51,
+      "probability": 0.2685
+    },
+    {
+      "word": "them",
+      "start": 29.59,
+      "end": 29.69,
+      "probability": 0.4697
+    },
+    {
+      "word": "the",
+      "start": 29.69,
+      "end": 29.81,
+      "probability": 0.3596
+    },
+    {
+      "word": "shat",
+      "start": 29.81,
+      "end": 30.19,
+      "probability": 0.2142
+    },
+    {
+      "word": "-tots",
+      "start": 30.19,
+      "end": 31.03,
+      "probability": 0.4535
+    },
+    {
+      "word": "When",
+      "start": 32.65,
+      "end": 33.05,
+      "probability": 0.9333
+    },
+    {
+      "word": "my",
+      "start": 33.05,
+      "end": 33.27,
+      "probability": 0.9928
+    },
+    {
+      "word": "homies",
+      "start": 33.27,
+      "end": 33.59,
+      "probability": 0.9918
+    },
+    {
+      "word": "pull",
+      "start": 33.59,
+      "end": 33.81,
+      "probability": 0.9797
+    },
+    {
+      "word": "up",
+      "start": 33.81,
+      "end": 34.01,
+      "probability": 0.9916
+    },
+    {
+      "word": "on",
+      "start": 34.01,
+      "end": 34.19,
+      "probability": 0.9943
+    },
+    {
+      "word": "your",
+      "start": 34.19,
+      "end": 34.31,
+      "probability": 0.7803
+    },
+    {
+      "word": "block,",
+      "start": 34.31,
+      "end": 34.55,
+      "probability": 0.5819
+    },
+    {
+      "word": "they",
+      "start": 34.61,
+      "end": 34.73,
+      "probability": 0.9402
+    },
+    {
+      "word": "make",
+      "start": 34.73,
+      "end": 34.95,
+      "probability": 0.9737
+    },
+    {
+      "word": "that",
+      "start": 34.95,
+      "end": 35.07,
+      "probability": 0.9885
+    },
+    {
+      "word": "thing",
+      "start": 35.07,
+      "end": 35.31,
+      "probability": 0.683
+    },
+    {
+      "word": "go",
+      "start": 35.31,
+      "end": 35.49,
+      "probability": 0.8312
+    },
+    {
+      "word": "grata",
+      "start": 35.49,
+      "end": 35.79,
+      "probability": 0.4696
+    },
+    {
+      "word": "-tata",
+      "start": 35.79,
+      "end": 36.33,
+      "probability": 0.4764
+    },
+    {
+      "word": "Switch",
+      "start": 38.43,
+      "end": 38.83,
+      "probability": 0.181
+    },
+    {
+      "word": "my",
+      "start": 38.83,
+      "end": 39.23,
+      "probability": 0.9652
+    },
+    {
+      "word": "whip,",
+      "start": 39.23,
+      "end": 39.41,
+      "probability": 0.9788
+    },
+    {
+      "word": "came",
+      "start": 39.47,
+      "end": 39.59,
+      "probability": 0.9729
+    },
+    {
+      "word": "back",
+      "start": 39.59,
+      "end": 39.79,
+      "probability": 0.9859
+    },
+    {
+      "word": "in",
+      "start": 39.79,
+      "end": 39.97,
+      "probability": 0.9544
+    },
+    {
+      "word": "black,",
+      "start": 39.97,
+      "end": 40.13,
+      "probability": 0.9828
+    },
+    {
+      "word": "I'm",
+      "start": 40.29,
+      "end": 40.35,
+      "probability": 0.9926
+    },
+    {
+      "word": "starting",
+      "start": 40.35,
+      "end": 40.63,
+      "probability": 0.3091
+    },
+    {
+      "word": "sayin'",
+      "start": 40.63,
+      "end": 40.93,
+      "probability": 0.6675
+    },
+    {
+      "word": "recipes",
+      "start": 41.15,
+      "end": 41.35,
+      "probability": 0.1232
+    },
+    {
+      "word": "to",
+      "start": 41.35,
+      "end": 41.85,
+      "probability": 0.6199
+    },
+    {
+      "word": "bond",
+      "start": 41.85,
+      "end": 42.09,
+      "probability": 0.0906
+    },
+    {
+      "word": "scott",
+      "start": 42.09,
+      "end": 42.73,
+      "probability": 0.3974
+    },
+    {
+      "word": "Close",
+      "start": 44.65,
+      "end": 45.05,
+      "probability": 0.068
+    },
+    {
+      "word": "that",
+      "start": 45.05,
+      "end": 45.25,
+      "probability": 0.7489
+    },
+    {
+      "word": "doughy",
+      "start": 45.25,
+      "end": 45.57,
+      "probability": 0.4036
+    },
+    {
+      "word": "blowin'",
+      "start": 45.57,
+      "end": 45.97,
+      "probability": 0.3287
+    },
+    {
+      "word": "smoke,",
+      "start": 46.03,
+      "end": 46.11,
+      "probability": 0.8831
+    },
+    {
+      "word": "they",
+      "start": 46.23,
+      "end": 46.37,
+      "probability": 0.1301
+    },
+    {
+      "word": "ask",
+      "start": 46.37,
+      "end": 46.57,
+      "probability": 0.8305
+    },
+    {
+      "word": "me",
+      "start": 46.57,
+      "end": 46.71,
+      "probability": 0.9952
+    },
+    {
+      "word": "like",
+      "start": 46.71,
+      "end": 46.91,
+      "probability": 0.4002
+    },
+    {
+      "word": "a",
+      "start": 46.91,
+      "end": 47.11,
+      "probability": 0.6532
+    },
+    {
+      "word": "fire,",
+      "start": 47.11,
+      "end": 47.39,
+      "probability": 0.9009
+    },
+    {
+      "word": "like",
+      "start": 47.41,
+      "end": 47.69,
+      "probability": 0.9372
+    },
+    {
+      "word": "a",
+      "start": 47.69,
+      "end": 47.85,
+      "probability": 0.7755
+    },
+    {
+      "word": "morson",
+      "start": 47.85,
+      "end": 48.05,
+      "probability": 0.3975
+    },
+    {
+      "word": "Act",
+      "start": 50.65,
+      "end": 51.05,
+      "probability": 0.2403
+    },
+    {
+      "word": "a",
+      "start": 51.05,
+      "end": 51.25,
+      "probability": 0.6379
+    },
+    {
+      "word": "fool",
+      "start": 51.25,
+      "end": 51.39,
+      "probability": 0.992
+    },
+    {
+      "word": "on",
+      "start": 51.39,
+      "end": 51.57,
+      "probability": 0.6784
+    },
+    {
+      "word": "stage,",
+      "start": 51.57,
+      "end": 51.89,
+      "probability": 0.9851
+    },
+    {
+      "word": "probably",
+      "start": 51.93,
+      "end": 52.25,
+      "probability": 0.8643
+    },
+    {
+      "word": "leave",
+      "start": 52.25,
+      "end": 52.53,
+      "probability": 0.8966
+    },
+    {
+      "word": "my",
+      "start": 52.53,
+      "end": 52.71,
+      "probability": 0.9861
+    },
+    {
+      "word": "fuckin'",
+      "start": 52.71,
+      "end": 52.99,
+      "probability": 0.4768
+    },
+    {
+      "word": "show",
+      "start": 53.17,
+      "end": 53.31,
+      "probability": 0.582
+    },
+    {
+      "word": "in",
+      "start": 53.31,
+      "end": 53.71,
+      "probability": 0.9119
+    },
+    {
+      "word": "a",
+      "start": 53.71,
+      "end": 53.87,
+      "probability": 0.9484
+    },
+    {
+      "word": "cop",
+      "start": 53.87,
+      "end": 54.11,
+      "probability": 0.49
+    },
+    {
+      "word": "-cop",
+      "start": 54.11,
+      "end": 55.25,
+      "probability": 0.5461
+    },
+    {
+      "word": "Shit",
+      "start": 56.61,
+      "end": 57.01,
+      "probability": 0.8127
+    },
+    {
+      "word": "was",
+      "start": 57.01,
+      "end": 57.25,
+      "probability": 0.9562
+    },
+    {
+      "word": "legendary",
+      "start": 57.25,
+      "end": 57.69,
+      "probability": 0.948
+    },
+    {
+      "word": "through",
+      "start": 57.69,
+      "end": 58.21,
+      "probability": 0.6003
+    },
+    {
+      "word": "a",
+      "start": 58.21,
+      "end": 58.39,
+      "probability": 0.8595
+    },
+    {
+      "word": "TV,",
+      "start": 58.39,
+      "end": 58.63,
+      "probability": 0.9241
+    },
+    {
+      "word": "I",
+      "start": 58.85,
+      "end": 58.95,
+      "probability": 0.9808
+    },
+    {
+      "word": "don't",
+      "start": 58.95,
+      "end": 59.15,
+      "probability": 0.9565
+    },
+    {
+      "word": "even",
+      "start": 59.15,
+      "end": 59.33,
+      "probability": 0.5797
+    },
+    {
+      "word": "know",
+      "start": 59.33,
+      "end": 59.57,
+      "probability": 0.9975
+    },
+    {
+      "word": "what",
+      "start": 59.57,
+      "end": 59.73,
+      "probability": 0.8706
+    },
+    {
+      "word": "I'm",
+      "start": 59.73,
+      "end": 59.95,
+      "probability": 0.9045
+    },
+    {
+      "word": "on",
+      "start": 59.95,
+      "end": 60.13,
+      "probability": 0.2555
+    },
+    {
+      "word": "top",
+      "start": 60.13,
+      "end": 60.51,
+      "probability": 0.1448
+    },
+    {
+      "word": "Skokin'",
+      "start": 60.97,
+      "end": 61.37,
+      "probability": 0.5191
+    },
+    {
+      "word": "on",
+      "start": 61.37,
+      "end": 61.55,
+      "probability": 0.9953
+    },
+    {
+      "word": "the",
+      "start": 61.55,
+      "end": 61.69,
+      "probability": 0.8484
+    },
+    {
+      "word": "table,",
+      "start": 61.69,
+      "end": 61.97,
+      "probability": 0.9465
+    },
+    {
+      "word": "lick",
+      "start": 62.27,
+      "end": 62.27,
+      "probability": 0.7175
+    },
+    {
+      "word": "a",
+      "start": 62.27,
+      "end": 62.49,
+      "probability": 0.5937
+    },
+    {
+      "word": "porn,",
+      "start": 62.49,
+      "end": 62.75,
+      "probability": 0.415
+    },
+    {
+      "word": "don't",
+      "start": 62.91,
+      "end": 63.07,
+      "probability": 0.9907
+    },
+    {
+      "word": "give",
+      "start": 63.07,
+      "end": 63.25,
+      "probability": 0.9936
+    },
+    {
+      "word": "a",
+      "start": 63.25,
+      "end": 63.41,
+      "probability": 0.9989
+    },
+    {
+      "word": "damn",
+      "start": 63.41,
+      "end": 63.95,
+      "probability": 0.9909
+    },
+    {
+      "word": "Do",
+      "start": 63.95,
+      "end": 64.13,
+      "probability": 0.2938
+    },
+    {
+      "word": "Joe",
+      "start": 64.13,
+      "end": 64.35,
+      "probability": 0.3491
+    },
+    {
+      "word": "Devon",
+      "start": 64.35,
+      "end": 64.67,
+      "probability": 0.3248
+    },
+    {
+      "word": "is",
+      "start": 64.67,
+      "end": 64.95,
+      "probability": 0.4699
+    },
+    {
+      "word": "a",
+      "start": 64.95,
+      "end": 65.09,
+      "probability": 0.8321
+    },
+    {
+      "word": "group,",
+      "start": 65.09,
+      "end": 65.29,
+      "probability": 0.6239
+    },
+    {
+      "word": "he's",
+      "start": 65.35,
+      "end": 65.53,
+      "probability": 0.5586
+    },
+    {
+      "word": "just",
+      "start": 65.53,
+      "end": 65.75,
+      "probability": 0.7878
+    },
+    {
+      "word": "tryin'",
+      "start": 65.75,
+      "end": 66.07,
+      "probability": 0.3342
+    },
+    {
+      "word": "to",
+      "start": 66.13,
+      "end": 66.25,
+      "probability": 0.8791
+    },
+    {
+      "word": "get",
+      "start": 66.25,
+      "end": 66.45,
+      "probability": 0.9647
+    },
+    {
+      "word": "in",
+      "start": 66.45,
+      "end": 67.33,
+      "probability": 0.7716
+    },
+    {
+      "word": "Sayin'",
+      "start": 68.53,
+      "end": 68.93,
+      "probability": 0.6513
+    },
+    {
+      "word": "I'm",
+      "start": 68.93,
+      "end": 69.09,
+      "probability": 0.9396
+    },
+    {
+      "word": "with",
+      "start": 69.09,
+      "end": 69.23,
+      "probability": 0.9829
+    },
+    {
+      "word": "the",
+      "start": 69.23,
+      "end": 69.41,
+      "probability": 0.9586
+    },
+    {
+      "word": "band",
+      "start": 69.41,
+      "end": 70.47,
+      "probability": 0.747
+    },
+    {
+      "word": "Ay,",
+      "start": 71.27,
+      "end": 71.67,
+      "probability": 0.0028
+    },
+    {
+      "word": "ay,",
+      "start": 72.23,
+      "end": 72.49,
+      "probability": 0.7119
+    },
+    {
+      "word": "now",
+      "start": 72.91,
+      "end": 73.13,
+      "probability": 0.374
+    },
+    {
+      "word": "she",
+      "start": 73.13,
+      "end": 73.33,
+      "probability": 0.9653
+    },
+    {
+      "word": "actin'",
+      "start": 73.33,
+      "end": 73.79,
+      "probability": 0.538
+    },
+    {
+      "word": "out",
+      "start": 73.83,
+      "end": 73.95,
+      "probability": 0.7404
+    },
+    {
+      "word": "of",
+      "start": 73.95,
+      "end": 74.09,
+      "probability": 0.4362
+    },
+    {
+      "word": "pocket,",
+      "start": 74.09,
+      "end": 74.35,
+      "probability": 0.9854
+    },
+    {
+      "word": "tryin'",
+      "start": 74.35,
+      "end": 74.67,
+      "probability": 0.258
+    },
+    {
+      "word": "to",
+      "start": 74.73,
+      "end": 74.83,
+      "probability": 0.9321
+    },
+    {
+      "word": "grab",
+      "start": 74.83,
+      "end": 75.05,
+      "probability": 0.982
+    },
+    {
+      "word": "up",
+      "start": 75.05,
+      "end": 75.27,
+      "probability": 0.8491
+    },
+    {
+      "word": "on",
+      "start": 75.27,
+      "end": 75.41,
+      "probability": 0.798
+    },
+    {
+      "word": "my",
+      "start": 75.41,
+      "end": 75.61,
+      "probability": 0.9077
+    },
+    {
+      "word": "pants",
+      "start": 75.61,
+      "end": 75.93,
+      "probability": 0.9908
+    },
+    {
+      "word": "On",
+      "start": 75.93,
+      "end": 76.23,
+      "probability": 0.1748
+    },
+    {
+      "word": "their",
+      "start": 76.23,
+      "end": 76.37,
+      "probability": 0.5586
+    },
+    {
+      "word": "beaches",
+      "start": 76.37,
+      "end": 76.61,
+      "probability": 0.457
+    },
+    {
+      "word": "in",
+      "start": 76.61,
+      "end": 76.93,
+      "probability": 0.9103
+    },
+    {
+      "word": "my",
+      "start": 76.93,
+      "end": 77.09,
+      "probability": 0.8201
+    },
+    {
+      "word": "trellis,",
+      "start": 77.09,
+      "end": 77.51,
+      "probability": 0.6918
+    },
+    {
+      "word": "they",
+      "start": 77.55,
+      "end": 77.69,
+      "probability": 0.2849
+    },
+    {
+      "word": "ain't",
+      "start": 77.69,
+      "end": 78.05,
+      "probability": 0.8577
+    },
+    {
+      "word": "got",
+      "start": 78.05,
+      "end": 78.27,
+      "probability": 0.9376
+    },
+    {
+      "word": "a",
+      "start": 78.27,
+      "end": 78.45,
+      "probability": 0.9803
+    },
+    {
+      "word": "man",
+      "start": 78.45,
+      "end": 78.65,
+      "probability": 0.9811
+    },
+    {
+      "word": "And",
+      "start": 80.31,
+      "end": 80.71,
+      "probability": 0.6049
+    },
+    {
+      "word": "they",
+      "start": 80.71,
+      "end": 80.85,
+      "probability": 0.9322
+    },
+    {
+      "word": "all",
+      "start": 80.85,
+      "end": 81.09,
+      "probability": 0.6166
+    },
+    {
+      "word": "brought",
+      "start": 81.09,
+      "end": 81.27,
+      "probability": 0.7093
+    },
+    {
+      "word": "a",
+      "start": 81.27,
+      "end": 81.45,
+      "probability": 0.972
+    },
+    {
+      "word": "friend",
+      "start": 81.45,
+      "end": 82.01,
+      "probability": 0.9765
+    },
+    {
+      "word": "Ay,",
+      "start": 84.19,
+      "end": 84.59,
+      "probability": 0.0678
+    },
+    {
+      "word": "ay,",
+      "start": 84.59,
+      "end": 84.99,
+      "probability": 0.9828
+    },
+    {
+      "word": "I",
+      "start": 86.4,
+      "end": 87.06,
+      "probability": 0.6142
+    },
+    {
+      "word": "been",
+      "start": 87.06,
+      "end": 87.2,
+      "probability": 0.7636
+    },
+    {
+      "word": "fuckin'",
+      "start": 87.2,
+      "end": 87.48,
+      "probability": 0.7053
+    },
+    {
+      "word": "hoes",
+      "start": 87.66,
+      "end": 87.86,
+      "probability": 0.2469
+    },
+    {
+      "word": "and",
+      "start": 87.86,
+      "end": 87.98,
+      "probability": 0.8113
+    },
+    {
+      "word": "poppin'",
+      "start": 87.98,
+      "end": 88.36,
+      "probability": 0.8047
+    },
+    {
+      "word": "pillies",
+      "start": 88.46,
+      "end": 88.74,
+      "probability": 0.7422
+    },
+    {
+      "word": "Man,",
+      "start": 88.74,
+      "end": 88.92,
+      "probability": 0.3819
+    },
+    {
+      "word": "I",
+      "start": 89.06,
+      "end": 89.1,
+      "probability": 0.9879
+    },
+    {
+      "word": "feel",
+      "start": 89.1,
+      "end": 89.28,
+      "probability": 0.9785
+    },
+    {
+      "word": "just",
+      "start": 89.28,
+      "end": 89.52,
+      "probability": 0.9879
+    },
+    {
+      "word": "like",
+      "start": 89.52,
+      "end": 89.72,
+      "probability": 0.9962
+    },
+    {
+      "word": "a",
+      "start": 89.72,
+      "end": 89.9,
+      "probability": 0.981
+    },
+    {
+      "word": "rockstar",
+      "start": 89.9,
+      "end": 90.54,
+      "probability": 0.7082
+    },
+    {
+      "word": "All",
+      "start": 91.18,
+      "end": 91.58,
+      "probability": 0.7382
+    },
+    {
+      "word": "my",
+      "start": 93.05,
+      "end": 93.21,
+      "probability": 0.997
+    },
+    {
+      "word": "brothers",
+      "start": 93.21,
+      "end": 93.51,
+      "probability": 0.8902
+    },
+    {
+      "word": "got",
+      "start": 93.51,
+      "end": 93.79,
+      "probability": 0.9783
+    },
+    {
+      "word": "that",
+      "start": 93.79,
+      "end": 93.97,
+      "probability": 0.9361
+    },
+    {
+      "word": "gas",
+      "start": 93.97,
+      "end": 94.19,
+      "probability": 0.8663
+    },
+    {
+      "word": "and",
+      "start": 94.19,
+      "end": 94.37,
+      "probability": 0.727
+    },
+    {
+      "word": "they",
+      "start": 94.37,
+      "end": 94.57,
+      "probability": 0.9884
+    },
+    {
+      "word": "always",
+      "start": 94.57,
+      "end": 94.87,
+      "probability": 0.9729
+    },
+    {
+      "word": "be",
+      "start": 94.87,
+      "end": 95.07,
+      "probability": 0.9341
+    },
+    {
+      "word": "smokin'",
+      "start": 95.07,
+      "end": 95.51,
+      "probability": 0.9426
+    },
+    {
+      "word": "like",
+      "start": 95.59,
+      "end": 95.71,
+      "probability": 0.9166
+    },
+    {
+      "word": "a",
+      "start": 95.71,
+      "end": 95.91,
+      "probability": 0.9767
+    },
+    {
+      "word": "rockstar",
+      "start": 95.91,
+      "end": 96.55,
+      "probability": 0.823
+    },
+    {
+      "word": "Fuckin'",
+      "start": 98.88,
+      "end": 99.28,
+      "probability": 0.9094
+    },
+    {
+      "word": "with",
+      "start": 99.28,
+      "end": 99.42,
+      "probability": 0.8238
+    },
+    {
+      "word": "me,",
+      "start": 99.42,
+      "end": 99.56,
+      "probability": 0.9944
+    },
+    {
+      "word": "call",
+      "start": 99.68,
+      "end": 99.8,
+      "probability": 0.7558
+    },
+    {
+      "word": "up",
+      "start": 99.8,
+      "end": 100.04,
+      "probability": 0.9591
+    },
+    {
+      "word": "on",
+      "start": 100.04,
+      "end": 100.22,
+      "probability": 0.9475
+    },
+    {
+      "word": "the",
+      "start": 100.22,
+      "end": 100.36,
+      "probability": 0.7716
+    },
+    {
+      "word": "Uzi",
+      "start": 100.36,
+      "end": 100.68,
+      "probability": 0.6501
+    },
+    {
+      "word": "and",
+      "start": 100.68,
+      "end": 100.92,
+      "probability": 0.8376
+    },
+    {
+      "word": "show",
+      "start": 100.92,
+      "end": 101.1,
+      "probability": 0.9906
+    },
+    {
+      "word": "up,",
+      "start": 101.1,
+      "end": 101.32,
+      "probability": 0.7744
+    },
+    {
+      "word": "man,",
+      "start": 101.38,
+      "end": 101.48,
+      "probability": 0.0128
+    },
+    {
+      "word": "them",
+      "start": 101.6,
+      "end": 101.7,
+      "probability": 0.5404
+    },
+    {
+      "word": "the",
+      "start": 101.7,
+      "end": 101.82,
+      "probability": 0.1193
+    },
+    {
+      "word": "shat",
+      "start": 101.82,
+      "end": 102.16,
+      "probability": 0.2752
+    },
+    {
+      "word": "-tots",
+      "start": 102.16,
+      "end": 103.02,
+      "probability": 0.4292
+    },
+    {
+      "word": "My",
+      "start": 103.02,
+      "end": 103.68,
+      "probability": 0.1505
+    },
+    {
+      "word": "homies",
+      "start": 105.24,
+      "end": 105.6,
+      "probability": 0.9752
+    },
+    {
+      "word": "pull",
+      "start": 105.6,
+      "end": 105.8,
+      "probability": 0.8802
+    },
+    {
+      "word": "up",
+      "start": 105.8,
+      "end": 106.02,
+      "probability": 0.9704
+    },
+    {
+      "word": "on",
+      "start": 106.02,
+      "end": 106.2,
+      "probability": 0.9141
+    },
+    {
+      "word": "your",
+      "start": 106.2,
+      "end": 106.32,
+      "probability": 0.8972
+    },
+    {
+      "word": "block,",
+      "start": 106.32,
+      "end": 106.54,
+      "probability": 0.2398
+    },
+    {
+      "word": "they",
+      "start": 106.6,
+      "end": 106.74,
+      "probability": 0.5747
+    },
+    {
+      "word": "make",
+      "start": 106.74,
+      "end": 106.9,
+      "probability": 0.7504
+    },
+    {
+      "word": "that",
+      "start": 106.9,
+      "end": 107.06,
+      "probability": 0.9297
+    },
+    {
+      "word": "thing",
+      "start": 107.06,
+      "end": 107.34,
+      "probability": 0.3846
+    },
+    {
+      "word": "go",
+      "start": 107.34,
+      "end": 107.46,
+      "probability": 0.9349
+    },
+    {
+      "word": "grata",
+      "start": 107.46,
+      "end": 107.76,
+      "probability": 0.5217
+    },
+    {
+      "word": "-tata",
+      "start": 107.76,
+      "end": 108.32,
+      "probability": 0.622
+    },
+    {
+      "word": "I",
+      "start": 110.54,
+      "end": 110.98,
+      "probability": 0.3365
+    },
+    {
+      "word": "been",
+      "start": 110.98,
+      "end": 111.18,
+      "probability": 0.3121
+    },
+    {
+      "word": "in",
+      "start": 111.18,
+      "end": 111.4,
+      "probability": 0.9825
+    },
+    {
+      "word": "the",
+      "start": 111.4,
+      "end": 111.58,
+      "probability": 0.9752
+    },
+    {
+      "word": "hills,",
+      "start": 111.58,
+      "end": 111.86,
+      "probability": 0.8093
+    },
+    {
+      "word": "fuckin'",
+      "start": 112.0,
+      "end": 112.22,
+      "probability": 0.2747
+    },
+    {
+      "word": "superstars,",
+      "start": 112.4,
+      "end": 113.0,
+      "probability": 0.9752
+    },
+    {
+      "word": "feelin'",
+      "start": 113.0,
+      "end": 113.48,
+      "probability": 0.6834
+    },
+    {
+      "word": "like",
+      "start": 113.56,
+      "end": 113.64,
+      "probability": 0.9969
+    },
+    {
+      "word": "a",
+      "start": 113.64,
+      "end": 113.86,
+      "probability": 0.9918
+    },
+    {
+      "word": "popstar",
+      "start": 113.86,
+      "end": 114.58,
+      "probability": 0.6253
+    },
+    {
+      "word": "Drunk",
+      "start": 116.26,
+      "end": 116.7,
+      "probability": 0.5089
+    },
+    {
+      "word": "in",
+      "start": 116.7,
+      "end": 116.86,
+      "probability": 0.4779
+    },
+    {
+      "word": "any",
+      "start": 116.86,
+      "end": 117.16,
+      "probability": 0.6737
+    },
+    {
+      "word": "bad",
+      "start": 117.16,
+      "end": 117.52,
+      "probability": 0.582
+    },
+    {
+      "word": "bitches,",
+      "start": 117.52,
+      "end": 117.84,
+      "probability": 0.8273
+    },
+    {
+      "word": "jumpin'",
+      "start": 118.0,
+      "end": 118.4,
+      "probability": 0.7684
+    },
+    {
+      "word": "in",
+      "start": 118.42,
+      "end": 118.56,
+      "probability": 0.9645
+    },
+    {
+      "word": "the",
+      "start": 118.56,
+      "end": 118.68,
+      "probability": 0.7504
+    },
+    {
+      "word": "pool",
+      "start": 118.68,
+      "end": 118.92,
+      "probability": 0.988
+    },
+    {
+      "word": "and",
+      "start": 118.92,
+      "end": 119.14,
+      "probability": 0.581
+    },
+    {
+      "word": "they",
+      "start": 119.14,
+      "end": 119.34,
+      "probability": 0.4487
+    },
+    {
+      "word": "ain't",
+      "start": 119.34,
+      "end": 119.52,
+      "probability": 0.942
+    },
+    {
+      "word": "got",
+      "start": 119.52,
+      "end": 119.66,
+      "probability": 0.8994
+    },
+    {
+      "word": "no",
+      "start": 119.66,
+      "end": 119.9,
+      "probability": 0.8754
+    },
+    {
+      "word": "bra",
+      "start": 119.9,
+      "end": 120.52,
+      "probability": 0.8528
+    },
+    {
+      "word": "Get",
+      "start": 122.2,
+      "end": 122.64,
+      "probability": 0.3969
+    },
+    {
+      "word": "up",
+      "start": 122.64,
+      "end": 122.82,
+      "probability": 0.6233
+    },
+    {
+      "word": "from",
+      "start": 122.82,
+      "end": 123.04,
+      "probability": 0.4708
+    },
+    {
+      "word": "the",
+      "start": 123.04,
+      "end": 123.18,
+      "probability": 0.9706
+    },
+    {
+      "word": "back,",
+      "start": 123.18,
+      "end": 123.48,
+      "probability": 0.8829
+    },
+    {
+      "word": "pullin'",
+      "start": 123.6,
+      "end": 123.96,
+      "probability": 0.9207
+    },
+    {
+      "word": "on",
+      "start": 123.96,
+      "end": 124.16,
+      "probability": 0.978
+    },
+    {
+      "word": "the",
+      "start": 124.16,
+      "end": 124.32,
+      "probability": 0.974
+    },
+    {
+      "word": "tracks",
+      "start": 124.32,
+      "end": 124.54,
+      "probability": 0.7833
+    },
+    {
+      "word": "and",
+      "start": 124.54,
+      "end": 124.76,
+      "probability": 0.7724
+    },
+    {
+      "word": "now",
+      "start": 124.76,
+      "end": 124.88,
+      "probability": 0.6998
+    },
+    {
+      "word": "she",
+      "start": 124.88,
+      "end": 125.02,
+      "probability": 0.9368
+    },
+    {
+      "word": "screamin'",
+      "start": 125.02,
+      "end": 125.48,
+      "probability": 0.8724
+    },
+    {
+      "word": "out",
+      "start": 125.72,
+      "end": 125.74,
+      "probability": 0.674
+    },
+    {
+      "word": "no",
+      "start": 125.74,
+      "end": 126.08,
+      "probability": 0.492
+    },
+    {
+      "word": "amaz",
+      "start": 126.08,
+      "end": 126.7,
+      "probability": 0.2395
+    },
+    {
+      "word": "They",
+      "start": 128.18,
+      "end": 128.62,
+      "probability": 0.3874
+    },
+    {
+      "word": "like",
+      "start": 128.62,
+      "end": 128.8,
+      "probability": 0.9831
+    },
+    {
+      "word": "savage,",
+      "start": 128.8,
+      "end": 129.08,
+      "probability": 0.7584
+    },
+    {
+      "word": "why",
+      "start": 129.2,
+      "end": 129.4,
+      "probability": 0.8712
+    },
+    {
+      "word": "you",
+      "start": 129.4,
+      "end": 129.56,
+      "probability": 0.9828
+    },
+    {
+      "word": "got",
+      "start": 129.56,
+      "end": 129.8,
+      "probability": 0.8587
+    },
+    {
+      "word": "a",
+      "start": 129.8,
+      "end": 129.96,
+      "probability": 0.9686
+    },
+    {
+      "word": "12",
+      "start": 129.96,
+      "end": 130.14,
+      "probability": 0.3997
+    },
+    {
+      "word": "car",
+      "start": 130.14,
+      "end": 130.52,
+      "probability": 0.8127
+    },
+    {
+      "word": "garage",
+      "start": 130.52,
+      "end": 130.94,
+      "probability": 0.9448
+    },
+    {
+      "word": "and",
+      "start": 130.94,
+      "end": 131.1,
+      "probability": 0.7797
+    },
+    {
+      "word": "you",
+      "start": 131.1,
+      "end": 131.28,
+      "probability": 0.992
+    },
+    {
+      "word": "only",
+      "start": 131.28,
+      "end": 131.54,
+      "probability": 0.8873
+    },
+    {
+      "word": "got",
+      "start": 131.54,
+      "end": 131.8,
+      "probability": 0.9919
+    },
+    {
+      "word": "six",
+      "start": 131.8,
+      "end": 132.02,
+      "probability": 0.7627
+    },
+    {
+      "word": "cars",
+      "start": 132.02,
+      "end": 132.64,
+      "probability": 0.9942
+    },
+    {
+      "word": "I",
+      "start": 133.14,
+      "end": 133.54,
+      "probability": 0.5571
+    },
+    {
+      "word": "ain't",
+      "start": 133.54,
+      "end": 133.74,
+      "probability": 0.9722
+    },
+    {
+      "word": "with",
+      "start": 133.74,
+      "end": 133.9,
+      "probability": 0.5849
+    },
+    {
+      "word": "the",
+      "start": 133.9,
+      "end": 134.08,
+      "probability": 0.8694
+    },
+    {
+      "word": "cake",
+      "start": 134.08,
+      "end": 134.3,
+      "probability": 0.7975
+    },
+    {
+      "word": "and",
+      "start": 134.3,
+      "end": 134.48,
+      "probability": 0.7734
+    },
+    {
+      "word": "how",
+      "start": 134.48,
+      "end": 134.66,
+      "probability": 0.9598
+    },
+    {
+      "word": "you",
+      "start": 134.66,
+      "end": 134.82,
+      "probability": 0.9036
+    },
+    {
+      "word": "kiss",
+      "start": 134.82,
+      "end": 135.12,
+      "probability": 0.3998
+    },
+    {
+      "word": "that",
+      "start": 135.12,
+      "end": 135.48,
+      "probability": 0.8013
+    },
+    {
+      "word": "Yo",
+      "start": 135.9,
+      "end": 136.3,
+      "probability": 0.1155
+    },
+    {
+      "word": "wifey",
+      "start": 136.3,
+      "end": 136.7,
+      "probability": 0.725
+    },
+    {
+      "word": "say",
+      "start": 136.7,
+      "end": 136.9,
+      "probability": 0.3046
+    },
+    {
+      "word": "I'm",
+      "start": 136.9,
+      "end": 137.1,
+      "probability": 0.9521
+    },
+    {
+      "word": "lookin'",
+      "start": 137.1,
+      "end": 137.3,
+      "probability": 0.0795
+    },
+    {
+      "word": "like",
+      "start": 137.56,
+      "end": 137.62,
+      "probability": 0.994
+    },
+    {
+      "word": "a",
+      "start": 137.62,
+      "end": 137.86,
+      "probability": 0.9915
+    },
+    {
+      "word": "hoe",
+      "start": 137.86,
+      "end": 138.08,
+      "probability": 0.4331
+    },
+    {
+      "word": "snap",
+      "start": 138.08,
+      "end": 138.38,
+      "probability": 0.4827
+    },
+    {
+      "word": "Green",
+      "start": 138.92,
+      "end": 139.32,
+      "probability": 0.7451
+    },
+    {
+      "word": "Hunnys,",
+      "start": 139.32,
+      "end": 139.72,
+      "probability": 0.2541
+    },
+    {
+      "word": "in",
+      "start": 139.74,
+      "end": 139.88,
+      "probability": 0.1227
+    },
+    {
+      "word": "my",
+      "start": 139.88,
+      "end": 140.04,
+      "probability": 0.9929
+    },
+    {
+      "word": "safe,",
+      "start": 140.04,
+      "end": 140.34,
+      "probability": 0.9407
+    },
+    {
+      "word": "I",
+      "start": 140.44,
+      "end": 140.64,
+      "probability": 0.9733
+    },
+    {
+      "word": "got",
+      "start": 140.64,
+      "end": 140.76,
+      "probability": 0.9786
+    },
+    {
+      "word": "a",
+      "start": 140.76,
+      "end": 140.92,
+      "probability": 0.6077
+    },
+    {
+      "word": "whole",
+      "start": 140.92,
+      "end": 141.12,
+      "probability": 0.6451
+    },
+    {
+      "word": "racks",
+      "start": 141.12,
+      "end": 141.56,
+      "probability": 0.5502
+    },
+    {
+      "word": "LA",
+      "start": 141.56,
+      "end": 142.2,
+      "probability": 0.686
+    },
+    {
+      "word": "bitches",
+      "start": 142.2,
+      "end": 142.6,
+      "probability": 0.9466
+    },
+    {
+      "word": "always",
+      "start": 142.6,
+      "end": 143.02,
+      "probability": 0.6849
+    },
+    {
+      "word": "askin'",
+      "start": 143.02,
+      "end": 143.48,
+      "probability": 0.6507
+    },
+    {
+      "word": "where",
+      "start": 143.64,
+      "end": 143.64,
+      "probability": 0.5479
+    },
+    {
+      "word": "the",
+      "start": 143.64,
+      "end": 143.78,
+      "probability": 0.848
+    },
+    {
+      "word": "coke",
+      "start": 143.78,
+      "end": 144.12,
+      "probability": 0.9167
+    },
+    {
+      "word": "at",
+      "start": 144.12,
+      "end": 144.5,
+      "probability": 0.8701
+    },
+    {
+      "word": "Livin'",
+      "start": 144.5,
+      "end": 144.96,
+      "probability": 0.739
+    },
+    {
+      "word": "like",
+      "start": 144.96,
+      "end": 145.18,
+      "probability": 0.9877
+    },
+    {
+      "word": "a",
+      "start": 145.18,
+      "end": 145.44,
+      "probability": 0.9884
+    },
+    {
+      "word": "rockstar,",
+      "start": 145.44,
+      "end": 145.96,
+      "probability": 0.6411
+    },
+    {
+      "word": "smash",
+      "start": 146.1,
+      "end": 146.24,
+      "probability": 0.7465
+    },
+    {
+      "word": "that",
+      "start": 146.24,
+      "end": 146.5,
+      "probability": 0.5865
+    },
+    {
+      "word": "on",
+      "start": 146.5,
+      "end": 146.7,
+      "probability": 0.4432
+    },
+    {
+      "word": "the",
+      "start": 146.7,
+      "end": 146.86,
+      "probability": 0.6077
+    },
+    {
+      "word": "cop",
+      "start": 146.86,
+      "end": 147.16,
+      "probability": 0.9745
+    },
+    {
+      "word": "car",
+      "start": 147.16,
+      "end": 147.5,
+      "probability": 0.8675
+    },
+    {
+      "word": "Sweeter",
+      "start": 147.5,
+      "end": 147.94,
+      "probability": 0.5205
+    },
+    {
+      "word": "than",
+      "start": 147.94,
+      "end": 148.2,
+      "probability": 0.7449
+    },
+    {
+      "word": "a",
+      "start": 148.2,
+      "end": 148.34,
+      "probability": 0.7404
+    },
+    {
+      "word": "pop",
+      "start": 148.34,
+      "end": 148.6,
+      "probability": 0.7968
+    },
+    {
+      "word": "tart,",
+      "start": 148.6,
+      "end": 148.98,
+      "probability": 0.5845
+    },
+    {
+      "word": "you",
+      "start": 149.16,
+      "end": 149.28,
+      "probability": 0.9553
+    },
+    {
+      "word": "know",
+      "start": 149.28,
+      "end": 149.42,
+      "probability": 0.9963
+    },
+    {
+      "word": "you",
+      "start": 149.42,
+      "end": 149.66,
+      "probability": 0.9634
+    },
+    {
+      "word": "are",
+      "start": 149.66,
+      "end": 149.86,
+      "probability": 0.8874
+    },
+    {
+      "word": "not",
+      "start": 149.86,
+      "end": 150.1,
+      "probability": 0.9927
+    },
+    {
+      "word": "hard",
+      "start": 150.1,
+      "end": 150.58,
+      "probability": 0.9135
+    },
+    {
+      "word": "I",
+      "start": 150.58,
+      "end": 150.82,
+      "probability": 0.7194
+    },
+    {
+      "word": "done",
+      "start": 150.82,
+      "end": 150.98,
+      "probability": 0.6039
+    },
+    {
+      "word": "made",
+      "start": 150.98,
+      "end": 151.18,
+      "probability": 0.9097
+    },
+    {
+      "word": "the",
+      "start": 151.18,
+      "end": 151.36,
+      "probability": 0.3887
+    },
+    {
+      "word": "hot",
+      "start": 151.36,
+      "end": 151.64,
+      "probability": 0.531
+    },
+    {
+      "word": "chart,",
+      "start": 151.64,
+      "end": 152.0,
+      "probability": 0.8654
+    },
+    {
+      "word": "remember",
+      "start": 152.14,
+      "end": 152.3,
+      "probability": 0.7948
+    },
+    {
+      "word": "I",
+      "start": 152.3,
+      "end": 152.5,
+      "probability": 0.7637
+    },
+    {
+      "word": "used",
+      "start": 152.5,
+      "end": 152.68,
+      "probability": 0.9376
+    },
+    {
+      "word": "to",
+      "start": 152.68,
+      "end": 152.86,
+      "probability": 0.8885
+    },
+    {
+      "word": "chop",
+      "start": 152.86,
+      "end": 153.1,
+      "probability": 0.9871
+    },
+    {
+      "word": "hard",
+      "start": 153.1,
+      "end": 153.56,
+      "probability": 0.9092
+    },
+    {
+      "word": "Livin'",
+      "start": 153.56,
+      "end": 153.98,
+      "probability": 0.9397
+    },
+    {
+      "word": "like",
+      "start": 154.1,
+      "end": 154.14,
+      "probability": 0.9952
+    },
+    {
+      "word": "a",
+      "start": 154.14,
+      "end": 154.34,
+      "probability": 0.9932
+    },
+    {
+      "word": "rockstar,",
+      "start": 154.34,
+      "end": 154.96,
+      "probability": 0.8617
+    },
+    {
+      "word": "I'm",
+      "start": 155.04,
+      "end": 155.16,
+      "probability": 0.8915
+    },
+    {
+      "word": "livin'",
+      "start": 155.16,
+      "end": 155.44,
+      "probability": 0.7929
+    },
+    {
+      "word": "like",
+      "start": 155.62,
+      "end": 155.68,
+      "probability": 0.9967
+    },
+    {
+      "word": "a",
+      "start": 155.68,
+      "end": 155.92,
+      "probability": 0.9788
+    },
+    {
+      "word": "rockstar",
+      "start": 155.92,
+      "end": 156.54,
+      "probability": 0.895
+    },
+    {
+      "word": "I",
+      "start": 158.63,
+      "end": 159.03,
+      "probability": 0.8698
+    },
+    {
+      "word": "been",
+      "start": 159.03,
+      "end": 159.21,
+      "probability": 0.682
+    },
+    {
+      "word": "fuckin'",
+      "start": 159.21,
+      "end": 159.47,
+      "probability": 0.8438
+    },
+    {
+      "word": "hoes",
+      "start": 159.65,
+      "end": 159.85,
+      "probability": 0.1627
+    },
+    {
+      "word": "and",
+      "start": 159.85,
+      "end": 159.99,
+      "probability": 0.7042
+    },
+    {
+      "word": "poppin'",
+      "start": 159.99,
+      "end": 160.37,
+      "probability": 0.8328
+    },
+    {
+      "word": "pillies",
+      "start": 160.47,
+      "end": 160.75,
+      "probability": 0.6894
+    },
+    {
+      "word": "Man,",
+      "start": 160.75,
+      "end": 160.91,
+      "probability": 0.1158
+    },
+    {
+      "word": "I",
+      "start": 161.01,
+      "end": 161.09,
+      "probability": 0.9962
+    },
+    {
+      "word": "feel",
+      "start": 161.09,
+      "end": 161.27,
+      "probability": 0.9825
+    },
+    {
+      "word": "just",
+      "start": 161.27,
+      "end": 161.45,
+      "probability": 0.9892
+    },
+    {
+      "word": "like",
+      "start": 161.45,
+      "end": 161.71,
+      "probability": 0.9976
+    },
+    {
+      "word": "a",
+      "start": 161.71,
+      "end": 161.93,
+      "probability": 0.9949
+    },
+    {
+      "word": "rockstar",
+      "start": 161.93,
+      "end": 162.49,
+      "probability": 0.8753
+    },
+    {
+      "word": "All",
+      "start": 163.19,
+      "end": 163.59,
+      "probability": 0.0962
+    },
+    {
+      "word": "my",
+      "start": 165.03,
+      "end": 165.21,
+      "probability": 0.9957
+    },
+    {
+      "word": "brothers",
+      "start": 165.21,
+      "end": 165.51,
+      "probability": 0.9477
+    },
+    {
+      "word": "got",
+      "start": 165.51,
+      "end": 165.81,
+      "probability": 0.9725
+    },
+    {
+      "word": "that",
+      "start": 165.81,
+      "end": 165.99,
+      "probability": 0.8769
+    },
+    {
+      "word": "gas",
+      "start": 165.99,
+      "end": 166.21,
+      "probability": 0.725
+    },
+    {
+      "word": "and",
+      "start": 166.21,
+      "end": 166.35,
+      "probability": 0.7365
+    },
+    {
+      "word": "they",
+      "start": 166.35,
+      "end": 166.55,
+      "probability": 0.9403
+    },
+    {
+      "word": "always",
+      "start": 166.55,
+      "end": 166.83,
+      "probability": 0.87
+    },
+    {
+      "word": "be",
+      "start": 166.83,
+      "end": 167.07,
+      "probability": 0.9816
+    },
+    {
+      "word": "smokin'",
+      "start": 167.07,
+      "end": 167.49,
+      "probability": 0.5267
+    },
+    {
+      "word": "like",
+      "start": 167.63,
+      "end": 167.69,
+      "probability": 0.9847
+    },
+    {
+      "word": "a",
+      "start": 167.69,
+      "end": 167.91,
+      "probability": 0.8706
+    },
+    {
+      "word": "rockstar",
+      "start": 167.91,
+      "end": 168.53,
+      "probability": 0.5548
+    },
+    {
+      "word": "Fuckin'",
+      "start": 170.85,
+      "end": 171.25,
+      "probability": 0.7265
+    },
+    {
+      "word": "with",
+      "start": 171.25,
+      "end": 171.41,
+      "probability": 0.5986
+    },
+    {
+      "word": "me,",
+      "start": 171.41,
+      "end": 171.59,
+      "probability": 0.991
+    },
+    {
+      "word": "call",
+      "start": 171.69,
+      "end": 171.81,
+      "probability": 0.7832
+    },
+    {
+      "word": "up",
+      "start": 171.81,
+      "end": 172.03,
+      "probability": 0.7574
+    },
+    {
+      "word": "on",
+      "start": 172.03,
+      "end": 172.19,
+      "probability": 0.4737
+    },
+    {
+      "word": "the",
+      "start": 172.19,
+      "end": 172.37,
+      "probability": 0.7672
+    },
+    {
+      "word": "Uzi",
+      "start": 172.37,
+      "end": 172.71,
+      "probability": 0.5779
+    },
+    {
+      "word": "and",
+      "start": 172.71,
+      "end": 172.91,
+      "probability": 0.8504
+    },
+    {
+      "word": "show",
+      "start": 172.91,
+      "end": 173.09,
+      "probability": 0.8927
+    },
+    {
+      "word": "up",
+      "start": 173.09,
+      "end": 173.31,
+      "probability": 0.7717
+    },
+    {
+      "word": "in",
+      "start": 173.31,
+      "end": 173.47,
+      "probability": 0.5173
+    },
+    {
+      "word": "him",
+      "start": 173.47,
+      "end": 173.69,
+      "probability": 0.427
+    },
+    {
+      "word": "the",
+      "start": 173.69,
+      "end": 173.83,
+      "probability": 0.7956
+    },
+    {
+      "word": "Chattos",
+      "start": 173.83,
+      "end": 174.99,
+      "probability": 0.2713
+    },
+    {
+      "word": "My",
+      "start": 174.99,
+      "end": 175.77,
+      "probability": 0.7235
+    },
+    {
+      "word": "homies",
+      "start": 177.28,
+      "end": 177.62,
+      "probability": 0.9909
+    },
+    {
+      "word": "pull",
+      "start": 177.62,
+      "end": 177.8,
+      "probability": 0.92
+    },
+    {
+      "word": "up",
+      "start": 177.8,
+      "end": 178.04,
+      "probability": 0.9829
+    },
+    {
+      "word": "on",
+      "start": 178.04,
+      "end": 178.2,
+      "probability": 0.9934
+    },
+    {
+      "word": "your",
+      "start": 178.2,
+      "end": 178.32,
+      "probability": 0.8209
+    },
+    {
+      "word": "block,",
+      "start": 178.32,
+      "end": 178.54,
+      "probability": 0.2674
+    },
+    {
+      "word": "they",
+      "start": 178.6,
+      "end": 178.72,
+      "probability": 0.5822
+    },
+    {
+      "word": "make",
+      "start": 178.72,
+      "end": 178.92,
+      "probability": 0.9519
+    },
+    {
+      "word": "that",
+      "start": 178.92,
+      "end": 179.1,
+      "probability": 0.9794
+    },
+    {
+      "word": "thing",
+      "start": 179.1,
+      "end": 179.36,
+      "probability": 0.826
+    },
+    {
+      "word": "go",
+      "start": 179.36,
+      "end": 179.5,
+      "probability": 0.8684
+    },
+    {
+      "word": "grata",
+      "start": 179.5,
+      "end": 179.78,
+      "probability": 0.2714
+    },
+    {
+      "word": "-ta",
+      "start": 179.78,
+      "end": 180.08,
+      "probability": 0.5326
+    },
+    {
+      "word": "-ta",
+      "start": 180.08,
+      "end": 180.52,
+      "probability": 0.951
+    }
+  ]
+}
